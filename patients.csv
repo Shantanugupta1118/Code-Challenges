@@ -1,0 +1,1001 @@
+Patient_ID,Patient_Name,Disease_Category_ID,Disease_Name,Medications,DISEASE_CATEGORY_NAME
+P0001,Isabella Davis,DI004,Autoimmune Hepatitis,Azathioprine,Autoimmune Diseases
+P0002,Emma Miller,DI003,Pulmonary Hypertension,Prostacyclin Analogs,Respiratory Diseases
+P0003,Bob Moore,DI001,Major Depressive Disorder (MDD),Therapy,Mental Health Disorders
+P0004,Alice Johnson,DI004,Sjögren's Syndrome,Salivary Substitutes,Autoimmune Diseases
+P0005,Fiona Smith,DI001,Insomnia,Cognitive Behavioral Therapy,Mental Health Disorders
+P0006,Bob Williams,DI006,Gastroenteritis,Antiemetics,Gastrointestinal Disorders
+P0007,David Smith,DI002,Angina,Beta-blockers,Cardiovascular Diseases
+P0008,Fiona Williams,DI002,Arrhythmia,Propafenone,Cardiovascular Diseases
+P0009,David Johnson,DI001,Narcissistic Personality Disorder,Psychotherapy,Mental Health Disorders
+P0010,Grace Smith,DI004,Myasthenia Gravis,Pyridostigmine,Autoimmune Diseases
+P0011,Alice Smith,DI006,Gastroparesis,Dietary changes,Gastrointestinal Disorders
+P0012,Grace Moore,DI006,Lactose Intolerance,Probiotics,Gastrointestinal Disorders
+P0013,Charlie Miller,DI006,Crohn's Disease,Biologics,Gastrointestinal Disorders
+P0014,Jack Brown,DI004,Sjögren's Syndrome,Artificial Tears,Autoimmune Diseases
+P0015,Henry Jones,DI006,Irritable Bowel Syndrome (IBS),Peppermint oil,Gastrointestinal Disorders
+P0016,Isabella Wilson,DI007,Graves' Disease,Methimazole,Endocrine Disorders
+P0017,Bob Davis,DI009,Macular Degeneration,Anti-VEGF Injections,Eye and Vision Disorders
+P0018,Bob Taylor,DI001,Post-Traumatic Stress Disorder (PTSD),,Mental Health Disorders
+P0019,Henry Taylor,DI002,Hypertension (High Blood Pressure),Losartan,Cardiovascular Diseases
+P0020,Charlie Moore,DI007,Type 1 Diabetes,Insulin Detemir,Endocrine Disorders
+P0021,Bob Johnson,DI005,Narcolepsy,,Neurological Disorders
+P0022,Grace Taylor,DI006,Irritable Bowel Syndrome (IBS),Antispasmodics,Gastrointestinal Disorders
+P0023,Henry Jones,DI002,Cardiomyopathy,Beta-blockers,Cardiovascular Diseases
+P0024,David Miller,DI003,Whooping Cough (Pertussis),Supportive Care,Respiratory Diseases
+P0025,Charlie Brown,DI010,Tuberculosis (TB),Isoniazid,Infectious Diseases
+P0026,Grace Wilson,DI010,Malaria,,Infectious Diseases
+P0027,Alice Jones,DI001,Oppositional Defiant Disorder (ODD),Behavioral Therapy,Mental Health Disorders
+P0028,Grace Wilson,DI004,Rheumatoid Arthritis,Methotrexate,Autoimmune Diseases
+P0029,Jack Davis,DI007,Diabetic Retinopathy,,Endocrine Disorders
+P0030,Bob Miller,DI002,Cardiomyopathy,Beta-blockers,Cardiovascular Diseases
+P0031,David Johnson,DI002,Angina,,Cardiovascular Diseases
+P0032,Bob Johnson,DI008,Dermatitis,Emollients,Skin Conditions
+P0033,Fiona Taylor,DI001,Insomnia,Cognitive Behavioral Therapy,Mental Health Disorders
+P0034,Grace Jones,DI006,Appendicitis,Appendectomy,Gastrointestinal Disorders
+P0035,David Jones,DI002,Arrhythmia,Sotalol,Cardiovascular Diseases
+P0036,Charlie Davis,DI007,Diabetes Insipidus,Thiazide Diuretics,Endocrine Disorders
+P0037,David Jones,DI009,Macular Degeneration,Anti-VEGF Injections,Eye and Vision Disorders
+P0038,Bob Wilson,DI007,Graves' Disease,,Endocrine Disorders
+P0039,Jack Jones,DI002,Heart Failure,Beta-blockers,Cardiovascular Diseases
+P0040,Charlie Brown,DI008,Molluscum Contagiosum,Cantharidin),Skin Conditions
+P0041,Grace Wilson,DI008,Warts,,Skin Conditions
+P0042,Isabella Wilson,DI001,Anxiety Disorders,Benzodiazepines,Mental Health Disorders
+P0043,Henry Miller,DI009,Corneal Ulcer,Antibiotic Eye Drops,Eye and Vision Disorders
+P0044,David Jones,DI007,Hypothyroidism,Liothyronine,Endocrine Disorders
+P0045,Emma Williams,DI005,Guillain-Barré Syndrome,Plasmapheresis,Neurological Disorders
+P0046,Grace Johnson,DI007,Thyroid Nodules,,Endocrine Disorders
+P0047,Jack Miller,DI008,Dermatitis,Topical Corticosteroids,Skin Conditions
+P0048,Charlie Wilson,DI004,Rheumatoid Arthritis,Methotrexate,Autoimmune Diseases
+P0049,Emma Smith,DI005,Tourette Syndrome,,Neurological Disorders
+P0050,Charlie Williams,DI006,Gastroesophageal Reflux Disease (GERD),Ranitidine,Gastrointestinal Disorders
+P0051,David Moore,DI002,Peripheral Artery Disease,Cilostazol,Cardiovascular Diseases
+P0052,Alice Moore,DI007,Adrenal Insufficiency,Hydrocortisone,Endocrine Disorders
+P0053,Charlie Williams,DI008,Dermatitis,Emollients,Skin Conditions
+P0054,Bob Taylor,DI010,Common Cold,,Infectious Diseases
+P0055,Grace Smith,DI007,Diabetic Retinopathy,,Endocrine Disorders
+P0056,Fiona Smith,DI001,Schizophrenia,Therapy,Mental Health Disorders
+P0057,Jack Miller,DI007,Acromegaly,Bromocriptine,Endocrine Disorders
+P0058,Bob Smith,DI007,Diabetes Insipidus,Thiazide Diuretics,Endocrine Disorders
+P0059,Emma Brown,DI002,Coronary Artery Disease,Beta-blockers,Cardiovascular Diseases
+P0060,David Miller,DI001,Narcissistic Personality Disorder,,Mental Health Disorders
+P0061,Jack Smith,DI002,Rheumatic Heart Disease,Anti-inflammatory Drugs,Cardiovascular Diseases
+P0062,Bob Brown,DI008,Contact Dermatitis,,Skin Conditions
+P0063,David Davis,DI010,Whooping Cough (Pertussis),Clarithromycin,Infectious Diseases
+P0064,Fiona Jones,DI002,Arrhythmogenic Right Ventricular Dysplasia,,Cardiovascular Diseases
+P0065,Bob Wilson,DI001,Panic Disorder,,Mental Health Disorders
+P0066,Emma Smith,DI006,Gastritis,Antacids,Gastrointestinal Disorders
+P0067,Henry Jones,DI001,Borderline Personality Disorder,,Mental Health Disorders
+P0068,Emma Wilson,DI009,Amblyopia (Lazy Eye),Atropine Eye Drops,Eye and Vision Disorders
+P0069,Emma Davis,DI003,Pulmonary Embolism,,Respiratory Diseases
+P0070,Isabella Brown,DI003,Pneumonia,Supportive Care,Respiratory Diseases
+P0071,Grace Miller,DI001,Narcissistic Personality Disorder,Psychotherapy,Mental Health Disorders
+P0072,Grace Moore,DI007,Parathyroid Disorders,Calcitriol,Endocrine Disorders
+P0073,David Davis,DI002,Aortic Aneurysm,Beta-blockers,Cardiovascular Diseases
+P0074,Charlie Taylor,DI003,Pulmonary Hypertension,,Respiratory Diseases
+P0075,David Jones,DI003,Influenza (Flu),Zanamivir (Relenza),Respiratory Diseases
+P0076,Isabella Moore,DI002,Pericarditis,Colchicine,Cardiovascular Diseases
+P0077,Charlie Brown,DI003,Tuberculosis (TB),Ethambutol,Respiratory Diseases
+P0078,Jack Johnson,DI010,Mumps,Supportive care,Infectious Diseases
+P0079,David Taylor,DI002,Long QT Syndrome,Beta-blockers,Cardiovascular Diseases
+P0080,Fiona Moore,DI006,Lactose Intolerance,Probiotics,Gastrointestinal Disorders
+P0081,Emma Taylor,DI007,Acromegaly,Cabergoline,Endocrine Disorders
+P0082,Charlie Taylor,DI002,Peripheral Artery Disease,Aspirin,Cardiovascular Diseases
+P0083,Charlie Miller,DI007,Graves' Disease,Methimazole,Endocrine Disorders
+P0084,Jack Williams,DI008,Hidradenitis Suppurativa,,Skin Conditions
+P0085,Grace Brown,DI004,Hashimoto's Thyroiditis,,Autoimmune Diseases
+P0086,Henry Moore,DI008,Dermatitis,Topical Corticosteroids,Skin Conditions
+P0087,Jack Smith,DI009,Blepharitis,Lid Hygiene,Eye and Vision Disorders
+P0088,Charlie Brown,DI006,Gallstones,Surgery,Gastrointestinal Disorders
+P0089,Isabella Smith,DI004,Addison's Disease,,Autoimmune Diseases
+P0090,Henry Moore,DI008,Cellulitis,Pain Relievers,Skin Conditions
+P0091,Fiona Brown,DI004,Autoimmune Hepatitis,Corticosteroids,Autoimmune Diseases
+P0092,Isabella Smith,DI004,Rheumatoid Arthritis,Etanercept,Autoimmune Diseases
+P0093,Charlie Smith,DI003,Cystic Fibrosis,,Respiratory Diseases
+P0094,Charlie Brown,DI001,Seasonal Affective Disorder (SAD),,Mental Health Disorders
+P0095,Fiona Miller,DI009,Amblyopia (Lazy Eye),Vision Therapy,Eye and Vision Disorders
+P0096,Bob Williams,DI003,Pleurisy,Anti-inflammatory Drugs,Respiratory Diseases
+P0097,Jack Johnson,DI009,Dry Macular Degeneration,,Eye and Vision Disorders
+P0098,Charlie Wilson,DI005,Tourette Syndrome,Haloperidol,Neurological Disorders
+P0099,Jack Smith,DI004,Inflammatory Bowel Disease (IBD),Mesalamine,Autoimmune Diseases
+P0100,Bob Williams,DI004,Myasthenia Gravis,Plasmapheresis,Autoimmune Diseases
+P0101,Alice Brown,DI009,Color Blindness (Color Vision Deficiency),,Eye and Vision Disorders
+P0102,Jack Williams,DI002,Arrhythmogenic Right Ventricular Dysplasia,,Cardiovascular Diseases
+P0103,Isabella Jones,DI004,Goodpasture's Syndrome,,Autoimmune Diseases
+P0104,Charlie Miller,DI009,Retinopathy of Prematurity (ROP),Cryotherapy,Eye and Vision Disorders
+P0105,Alice Johnson,DI006,Gastroesophageal Reflux Disease (GERD),Ranitidine,Gastrointestinal Disorders
+P0106,Charlie Wilson,DI006,Rectal Prolapse,Biofeedback therapy,Gastrointestinal Disorders
+P0107,Bob Brown,DI001,Major Depressive Disorder (MDD),MAOIs,Mental Health Disorders
+P0108,Alice Davis,DI008,Hidradenitis Suppurativa,,Skin Conditions
+P0109,Isabella Taylor,DI006,Hemorrhoids,Topical treatments,Gastrointestinal Disorders
+P0110,Jack Davis,DI003,Bronchiectasis,,Respiratory Diseases
+P0111,Bob Davis,DI008,Hives (Urticaria),,Skin Conditions
+P0112,Grace Brown,DI008,Fungal Infections,Oral Antifungal Medications,Skin Conditions
+P0113,Alice Johnson,DI001,Hoarding Disorder,,Mental Health Disorders
+P0114,Charlie Moore,DI002,Rheumatic Heart Disease,Antibiotics,Cardiovascular Diseases
+P0115,Bob Wilson,DI007,Diabetic Neuropathy,Pregabalin,Endocrine Disorders
+P0116,Charlie Jones,DI010,Chickenpox,,Infectious Diseases
+P0117,Jack Brown,DI002,Wolff-Parkinson-White Syndrome,Catheter Ablation,Cardiovascular Diseases
+P0118,Jack Miller,DI008,Warts,,Skin Conditions
+P0119,Alice Smith,DI007,Thyroid Nodules,,Endocrine Disorders
+P0120,Henry Miller,DI010,Rubella,,Infectious Diseases
+P0121,Emma Williams,DI008,Psoriasis,Salicylic Acid,Skin Conditions
+P0122,Alice Davis,DI004,Ankylosing Spondylitis,Physical therapy,Autoimmune Diseases
+P0123,Grace Williams,DI010,Dengue Fever,,Infectious Diseases
+P0124,Fiona Brown,DI008,Psoriasis,Calcipotriene,Skin Conditions
+P0125,Alice Jones,DI003,Pneumothorax,Thoracostomy,Respiratory Diseases
+P0126,Bob Williams,DI007,Diabetic Neuropathy,Amitriptyline,Endocrine Disorders
+P0127,Grace Wilson,DI001,Major Depressive Disorder (MDD),Therapy,Mental Health Disorders
+P0128,Jack Miller,DI008,Keratosis Pilaris,Topical Exfoliants,Skin Conditions
+P0129,Isabella Moore,DI001,Anxiety Disorders,Buspirone,Mental Health Disorders
+P0130,Jack Miller,DI002,Arrhythmia,Amiodarone,Cardiovascular Diseases
+P0131,David Moore,DI007,Growth Hormone Deficiency,,Endocrine Disorders
+P0132,Emma Wilson,DI006,Pancreatitis,Pain relievers,Gastrointestinal Disorders
+P0133,Emma Johnson,DI007,Diabetic Neuropathy,Pregabalin,Endocrine Disorders
+P0134,Charlie Moore,DI004,Addison's Disease,Glucocorticoid Replacement Therapy,Autoimmune Diseases
+P0135,Henry Williams,DI010,Pneumonia,,Infectious Diseases
+P0136,Alice Brown,DI002,Cardiomyopathy,Beta-blockers,Cardiovascular Diseases
+P0137,Jack Johnson,DI008,Molluscum Contagiosum,Topical Therapy (Imiquimod,Skin Conditions
+P0138,Emma Smith,DI005,Restless Legs Syndrome,Iron Supplements,Neurological Disorders
+P0139,Fiona Brown,DI006,Gastritis,Acid-suppressing medications,Gastrointestinal Disorders
+P0140,Grace Jones,DI009,Color Blindness (Color Vision Deficiency),,Eye and Vision Disorders
+P0141,Grace Smith,DI007,Hyperaldosteronism,Eplerenone,Endocrine Disorders
+P0142,Henry Taylor,DI001,Narcissistic Personality Disorder,,Mental Health Disorders
+P0143,Fiona Miller,DI007,Acromegaly,Pegvisomant,Endocrine Disorders
+P0144,Fiona Williams,DI007,Pheochromocytoma,,Endocrine Disorders
+P0145,Henry Johnson,DI005,Neuropathy,Pregabalin,Neurological Disorders
+P0146,Alice Davis,DI007,Diabetic Neuropathy,,Endocrine Disorders
+P0147,Henry Johnson,DI004,Lupus,Immunosuppressants,Autoimmune Diseases
+P0148,Fiona Johnson,DI009,Amblyopia (Lazy Eye),Eye Patching,Eye and Vision Disorders
+P0149,Emma Jones,DI005,Parkinson's Disease,Entacapone,Neurological Disorders
+P0150,Isabella Johnson,DI001,Avoidant Personality Disorder,,Mental Health Disorders
+P0151,Henry Johnson,DI007,Cushing's Syndrome,Ketoconazole,Endocrine Disorders
+P0152,Charlie Davis,DI009,Blepharitis,,Eye and Vision Disorders
+P0153,Isabella Davis,DI004,Goodpasture's Syndrome,Immunosuppressants,Autoimmune Diseases
+P0154,Grace Wilson,DI001,Hoarding Disorder,Cognitive Behavioral Therapy,Mental Health Disorders
+P0155,Jack Moore,DI005,Charcot-Marie-Tooth Disease,Physical Therapy,Neurological Disorders
+P0156,Bob Johnson,DI005,Cerebral Palsy,Baclofen,Neurological Disorders
+P0157,Charlie Taylor,DI009,Blepharitis,Warm Compresses,Eye and Vision Disorders
+P0158,Bob Taylor,DI006,Ulcerative Colitis,Immunomodulators,Gastrointestinal Disorders
+P0159,Charlie Miller,DI005,Epilepsy,Topiramate,Neurological Disorders
+P0160,Alice Williams,DI003,Pulmonary Hypertension,Prostacyclin Analogs,Respiratory Diseases
+P0161,Charlie Davis,DI006,Gastric Cancer,Surgery,Gastrointestinal Disorders
+P0162,Jack Brown,DI002,Cardiomyopathy,ACE inhibitors,Cardiovascular Diseases
+P0163,Grace Brown,DI004,Hashimoto's Thyroiditis,Levothyroxine (for hypothyroidism),Autoimmune Diseases
+P0164,David Williams,DI009,Pterygium,Eye Lubrication,Eye and Vision Disorders
+P0165,Emma Jones,DI009,Color Blindness (Color Vision Deficiency),No Specific Treatment,Eye and Vision Disorders
+P0166,Alice Wilson,DI001,Seasonal Affective Disorder (SAD),,Mental Health Disorders
+P0167,Henry Miller,DI005,Myasthenia Gravis,Rituximab,Neurological Disorders
+P0168,Charlie Williams,DI008,Seborrheic Dermatitis,,Skin Conditions
+P0169,Bob Davis,DI009,Keratoconus,Intacs (Corneal Inserts),Eye and Vision Disorders
+P0170,Fiona Moore,DI003,Sleep Apnea,,Respiratory Diseases
+P0171,Isabella Wilson,DI005,Migraine,Topiramate,Neurological Disorders
+P0172,Alice Johnson,DI003,Cystic Fibrosis,Ivacaftor,Respiratory Diseases
+P0173,Charlie Wilson,DI006,Gastritis,Antacids,Gastrointestinal Disorders
+P0174,Isabella Wilson,DI006,Diverticulitis,Pain relievers,Gastrointestinal Disorders
+P0175,Fiona Taylor,DI007,Growth Hormone Deficiency,Recombinant Human Growth Hormone,Endocrine Disorders
+P0176,Emma Taylor,DI007,Hyperaldosteronism,Eplerenone,Endocrine Disorders
+P0177,Isabella Johnson,DI001,Eating Disorders,,Mental Health Disorders
+P0178,Jack Davis,DI003,Whooping Cough (Pertussis),Supportive Care,Respiratory Diseases
+P0179,Grace Smith,DI010,Hepatitis A,,Infectious Diseases
+P0180,Jack Brown,DI006,Peptic Ulcer,H2 Blockers,Gastrointestinal Disorders
+P0181,Isabella Taylor,DI004,Addison's Disease,Mineralocorticoid Replacement,Autoimmune Diseases
+P0182,Grace Johnson,DI001,Anxiety Disorders,Therapy,Mental Health Disorders
+P0183,Bob Davis,DI010,Hepatitis B,Entecavir,Infectious Diseases
+P0184,David Moore,DI002,Kawasaki Disease,,Cardiovascular Diseases
+P0185,Alice Jones,DI002,Arrhythmogenic Right Ventricular Dysplasia,Medications for Arrhythmias,Cardiovascular Diseases
+P0186,Isabella Miller,DI006,Lactose Intolerance,Dietary changes,Gastrointestinal Disorders
+P0187,Bob Davis,DI002,Heart Failure,Beta-blockers,Cardiovascular Diseases
+P0188,Bob Moore,DI005,Narcolepsy,,Neurological Disorders
+P0189,David Taylor,DI008,Seborrheic Dermatitis,Topical Corticosteroids,Skin Conditions
+P0190,Alice Jones,DI007,Hyperaldosteronism,,Endocrine Disorders
+P0191,Alice Wilson,DI001,Social Anxiety Disorder,,Mental Health Disorders
+P0192,Alice Miller,DI006,Intestinal Obstruction,Surgery,Gastrointestinal Disorders
+P0193,Jack Taylor,DI009,Keratoconus,Corneal Collagen Cross-Linking,Eye and Vision Disorders
+P0194,Charlie Smith,DI002,Aortic Aneurysm,Medications for Symptoms,Cardiovascular Diseases
+P0195,Charlie Johnson,DI010,Cholera,,Infectious Diseases
+P0196,Isabella Brown,DI007,Hypothyroidism,Euthyrox,Endocrine Disorders
+P0197,Jack Williams,DI004,Myasthenia Gravis,Immunosuppressants,Autoimmune Diseases
+P0198,Alice Smith,DI005,Huntington's Disease,Antipsychotics,Neurological Disorders
+P0199,Henry Moore,DI002,Endocarditis,Antibiotics,Cardiovascular Diseases
+P0200,David Moore,DI002,Wolff-Parkinson-White Syndrome,,Cardiovascular Diseases
+P0201,Charlie Johnson,DI007,Adrenal Insufficiency,Prednisone,Endocrine Disorders
+P0202,Alice Brown,DI007,Hashimoto's Thyroiditis,Levothyroxine,Endocrine Disorders
+P0203,Henry Jones,DI005,Restless Legs Syndrome,Iron Supplements,Neurological Disorders
+P0204,Isabella Davis,DI002,Coronary Artery Disease,Beta-blockers,Cardiovascular Diseases
+P0205,Bob Moore,DI008,Lichen Planus,Retinoids,Skin Conditions
+P0206,Grace Jones,DI010,Typhoid Fever,Azithromycin,Infectious Diseases
+P0207,Jack Wilson,DI007,Hyperaldosteronism,Spironolactone,Endocrine Disorders
+P0208,Emma Davis,DI008,Acne,Benzoyl Peroxide,Skin Conditions
+P0209,Emma Moore,DI006,Gastroesophageal Reflux Disease (GERD),Omeprazole,Gastrointestinal Disorders
+P0210,Bob Miller,DI008,Keratosis Pilaris,,Skin Conditions
+P0211,Grace Davis,DI010,Rubella,,Infectious Diseases
+P0212,Grace Jones,DI010,Cholera,Antibiotics,Infectious Diseases
+P0213,David Miller,DI008,Acne,Salicylic Acid,Skin Conditions
+P0214,Bob Moore,DI007,Hyperparathyroidism,,Endocrine Disorders
+P0215,Jack Jones,DI007,Thyroid Nodules,Radioactive Iodine Ablation,Endocrine Disorders
+P0216,Charlie Taylor,DI009,Pterygium,,Eye and Vision Disorders
+P0217,Henry Jones,DI002,Aortic Aneurysm,Medications for Symptoms,Cardiovascular Diseases
+P0218,Emma Brown,DI003,Bronchiectasis,Airway Clearance Techniques,Respiratory Diseases
+P0219,Fiona Brown,DI006,Gastrointestinal Bleeding,Medications to stop bleeding,Gastrointestinal Disorders
+P0220,Fiona Davis,DI009,Dacryocystitis,Oral Antibiotics,Eye and Vision Disorders
+P0221,David Johnson,DI009,Color Blindness (Color Vision Deficiency),No Specific Treatment,Eye and Vision Disorders
+P0222,Charlie Williams,DI007,Graves' Disease,Methimazole,Endocrine Disorders
+P0223,Bob Moore,DI007,Graves' Disease,Methimazole,Endocrine Disorders
+P0224,Emma Davis,DI004,Goodpasture's Syndrome,,Autoimmune Diseases
+P0225,Alice Johnson,DI008,Acne,Topical Retinoids,Skin Conditions
+P0226,Fiona Taylor,DI001,Bipolar Disorder,Lithium,Mental Health Disorders
+P0227,Fiona Smith,DI007,Growth Hormone Deficiency,,Endocrine Disorders
+P0228,Isabella Miller,DI005,Tourette Syndrome,Haloperidol,Neurological Disorders
+P0229,Fiona Wilson,DI007,Diabetic Retinopathy,Vascular Endothelial Growth Factor (VEGF) Inhibitors,Endocrine Disorders
+P0230,Henry Wilson,DI004,Autoimmune Hepatitis,Mycophenolate,Autoimmune Diseases
+P0231,David Smith,DI007,Acromegaly,Cabergoline,Endocrine Disorders
+P0232,Henry Brown,DI006,Gastritis,Antibiotics,Gastrointestinal Disorders
+P0233,Fiona Davis,DI005,Migraine,Propranolol,Neurological Disorders
+P0234,Charlie Williams,DI003,Whooping Cough (Pertussis),,Respiratory Diseases
+P0235,Isabella Williams,DI002,Endocarditis,Antibiotics,Cardiovascular Diseases
+P0236,Isabella Miller,DI001,Narcissistic Personality Disorder,Psychotherapy,Mental Health Disorders
+P0237,David Taylor,DI002,Cardiomyopathy,Digoxin,Cardiovascular Diseases
+P0238,Alice Jones,DI006,Lactose Intolerance,Probiotics,Gastrointestinal Disorders
+P0239,Isabella Williams,DI007,Graves' Disease,Methimazole,Endocrine Disorders
+P0240,Fiona Williams,DI008,Shingles (Herpes Zoster),,Skin Conditions
+P0241,Henry Wilson,DI001,Insomnia,,Mental Health Disorders
+P0242,Bob Davis,DI007,Polycystic Ovary Syndrome (PCOS),Spironolactone,Endocrine Disorders
+P0243,Emma Miller,DI008,Lichen Planus,,Skin Conditions
+P0244,Grace Williams,DI010,Gonorrhea,,Infectious Diseases
+P0245,Alice Taylor,DI009,Strabismus,Prism Lenses,Eye and Vision Disorders
+P0246,Fiona Davis,DI003,Tuberculosis (TB),Rifampin,Respiratory Diseases
+P0247,David Moore,DI007,Diabetic Neuropathy,,Endocrine Disorders
+P0248,Bob Miller,DI007,Diabetic Retinopathy,,Endocrine Disorders
+P0249,Bob Taylor,DI009,Strabismus,,Eye and Vision Disorders
+P0250,Bob Johnson,DI005,Huntington's Disease,,Neurological Disorders
+P0251,Charlie Davis,DI002,Valvular Heart Disease,Diuretics,Cardiovascular Diseases
+P0252,Bob Johnson,DI010,Cholera,Oral rehydration solution (ORS),Infectious Diseases
+P0253,Alice Davis,DI008,Keratosis Pilaris,,Skin Conditions
+P0254,Henry Wilson,DI004,Sjögren's Syndrome,Salivary Substitutes,Autoimmune Diseases
+P0255,Alice Miller,DI001,Schizophrenia,Therapy,Mental Health Disorders
+P0256,David Wilson,DI001,Generalized Anxiety Disorder (GAD),SSRIs,Mental Health Disorders
+P0257,Grace Davis,DI006,Lactose Intolerance,Probiotics,Gastrointestinal Disorders
+P0258,Grace Jones,DI008,Lichen Planus,Topical Steroids,Skin Conditions
+P0259,Isabella Miller,DI002,Long QT Syndrome,,Cardiovascular Diseases
+P0260,David Wilson,DI006,Appendicitis,Antibiotics,Gastrointestinal Disorders
+P0261,David Davis,DI008,Actinic Keratosis,,Skin Conditions
+P0262,Charlie Johnson,DI005,Epilepsy,Valproic Acid,Neurological Disorders
+P0263,Emma Brown,DI010,HIV/AIDS,Antiretroviral therapy (ART),Infectious Diseases
+P0264,Isabella Smith,DI001,Postpartum Depression,Psychotherapy,Mental Health Disorders
+P0265,Bob Johnson,DI006,Appendicitis,Antibiotics,Gastrointestinal Disorders
+P0266,Grace Davis,DI004,Pemphigus,Immunosuppressants,Autoimmune Diseases
+P0267,Grace Williams,DI004,Addison's Disease,Mineralocorticoid Replacement,Autoimmune Diseases
+P0268,Grace Miller,DI006,Rectal Prolapse,Biofeedback therapy,Gastrointestinal Disorders
+P0269,Emma Moore,DI001,Insomnia,,Mental Health Disorders
+P0270,Charlie Jones,DI007,Polycystic Ovary Syndrome (PCOS),Metformin,Endocrine Disorders
+P0271,Henry Taylor,DI006,Rectal Prolapse,Biofeedback therapy,Gastrointestinal Disorders
+P0272,Grace Jones,DI004,Addison's Disease,,Autoimmune Diseases
+P0273,Henry Smith,DI003,Influenza (Flu),,Respiratory Diseases
+P0274,Henry Miller,DI006,Gastroparesis,Medications to stimulate stomach muscles,Gastrointestinal Disorders
+P0275,Alice Jones,DI002,Kawasaki Disease,,Cardiovascular Diseases
+P0276,Jack Miller,DI001,Panic Disorder,Cognitive Behavioral Therapy,Mental Health Disorders
+P0277,Henry Miller,DI008,Herpes Simplex,Valacyclovir,Skin Conditions
+P0278,Henry Davis,DI005,Tourette Syndrome,Haloperidol,Neurological Disorders
+P0279,Alice Brown,DI002,Atrial Fibrillation,Dabigatran,Cardiovascular Diseases
+P0280,Emma Smith,DI009,Color Blindness (Color Vision Deficiency),No Specific Treatment,Eye and Vision Disorders
+P0281,Isabella Williams,DI008,Hives (Urticaria),Epinephrine (in severe cases),Skin Conditions
+P0282,Henry Smith,DI010,Lyme Disease,Doxycycline,Infectious Diseases
+P0283,Henry Brown,DI006,Appendicitis,Antibiotics,Gastrointestinal Disorders
+P0284,Alice Smith,DI009,Conjunctivitis (Pink Eye),,Eye and Vision Disorders
+P0285,Emma Taylor,DI008,Shingles (Herpes Zoster),,Skin Conditions
+P0286,Emma Johnson,DI010,Common Cold,Over-the-counter cold and flu medications,Infectious Diseases
+P0287,Grace Miller,DI007,Hashimoto's Thyroiditis,,Endocrine Disorders
+P0288,Charlie Brown,DI001,Eating Disorders,,Mental Health Disorders
+P0289,Grace Williams,DI002,Aortic Aneurysm,Surgery,Cardiovascular Diseases
+P0290,Fiona Wilson,DI009,Amblyopia (Lazy Eye),,Eye and Vision Disorders
+P0291,Jack Miller,DI004,Inflammatory Bowel Disease (IBD),Sulfasalazine,Autoimmune Diseases
+P0292,David Brown,DI001,Narcissistic Personality Disorder,Support Groups,Mental Health Disorders
+P0293,Grace Brown,DI008,Lichen Planus,,Skin Conditions
+P0294,Isabella Smith,DI002,Coronary Artery Disease,Statins,Cardiovascular Diseases
+P0295,Bob Moore,DI005,Narcolepsy,,Neurological Disorders
+P0296,Emma Miller,DI008,Keratosis Pilaris,,Skin Conditions
+P0297,Alice Smith,DI010,Hepatitis B,Tenofovir,Infectious Diseases
+P0298,David Moore,DI008,Hives (Urticaria),Epinephrine (in severe cases),Skin Conditions
+P0299,David Jones,DI008,Warts,Salicylic Acid,Skin Conditions
+P0300,Grace Moore,DI003,COPD (Chronic Bronchitis and Emphysema),Bronchodilators,Respiratory Diseases
+P0301,Isabella Miller,DI002,Angina,Nitroglycerin,Cardiovascular Diseases
+P0302,Emma Davis,DI010,Tuberculosis (TB),Isoniazid,Infectious Diseases
+P0303,Alice Davis,DI008,Hives (Urticaria),Oral Corticosteroids,Skin Conditions
+P0304,David Williams,DI003,Common Cold,,Respiratory Diseases
+P0305,Bob Miller,DI003,Influenza (Flu),,Respiratory Diseases
+P0306,Henry Brown,DI002,Angina,Beta-blockers,Cardiovascular Diseases
+P0307,Henry Davis,DI008,Shingles (Herpes Zoster),Valacyclovir),Skin Conditions
+P0308,Fiona Taylor,DI001,Hoarding Disorder,Cognitive Behavioral Therapy,Mental Health Disorders
+P0309,Fiona Brown,DI006,Gastroesophageal Reflux Disease (GERD),Ranitidine,Gastrointestinal Disorders
+P0310,Fiona Williams,DI002,Wolff-Parkinson-White Syndrome,Catheter Ablation,Cardiovascular Diseases
+P0311,David Williams,DI004,Hashimoto's Thyroiditis,,Autoimmune Diseases
+P0312,Bob Taylor,DI010,Typhoid Fever,,Infectious Diseases
+P0313,Jack Wilson,DI004,Type 1 Diabetes,Pramlintide,Autoimmune Diseases
+P0314,Jack Williams,DI008,Scabies,,Skin Conditions
+P0315,Emma Moore,DI009,Color Blindness (Color Vision Deficiency),,Eye and Vision Disorders
+P0316,Charlie Johnson,DI010,Chickenpox,Supportive care,Infectious Diseases
+P0317,Grace Jones,DI008,Hives (Urticaria),Antihistamines,Skin Conditions
+P0318,Jack Wilson,DI005,Multiple Sclerosis,Fingolimod,Neurological Disorders
+P0319,Fiona Davis,DI009,Dry Macular Degeneration,Lutein Supplements,Eye and Vision Disorders
+P0320,Alice Taylor,DI010,Whooping Cough (Pertussis),Azithromycin,Infectious Diseases
+P0321,Emma Miller,DI004,Celiac Disease,,Autoimmune Diseases
+P0322,David Jones,DI010,Typhoid Fever,Ciprofloxacin,Infectious Diseases
+P0323,Henry Miller,DI008,Herpes Simplex,,Skin Conditions
+P0324,Isabella Brown,DI003,Pneumonia,,Respiratory Diseases
+P0325,Charlie Miller,DI004,Hashimoto's Thyroiditis,,Autoimmune Diseases
+P0326,Charlie Jones,DI007,Hashimoto's Thyroiditis,,Endocrine Disorders
+P0327,David Smith,DI009,Dry Macular Degeneration,Vitamins (AREDS Formulation),Eye and Vision Disorders
+P0328,Alice Moore,DI001,Panic Disorder,Benzodiazepines,Mental Health Disorders
+P0329,Isabella Brown,DI004,Inflammatory Bowel Disease (IBD),Immunosuppressants,Autoimmune Diseases
+P0330,David Miller,DI006,Rectal Prolapse,Biofeedback therapy,Gastrointestinal Disorders
+P0331,Charlie Smith,DI005,Guillain-Barré Syndrome,,Neurological Disorders
+P0332,Alice Smith,DI005,Amyotrophic Lateral Sclerosis (ALS),Edaravone,Neurological Disorders
+P0333,Grace Davis,DI005,Parkinson's Disease,Rasagiline,Neurological Disorders
+P0334,Charlie Moore,DI002,Coronary Artery Disease,Statins,Cardiovascular Diseases
+P0335,Henry Jones,DI005,Guillain-Barré Syndrome,,Neurological Disorders
+P0336,Fiona Miller,DI007,Adrenal Insufficiency,Fludrocortisone,Endocrine Disorders
+P0337,Fiona Taylor,DI010,Lyme Disease,Doxycycline,Infectious Diseases
+P0338,Isabella Jones,DI007,Adrenal Insufficiency,,Endocrine Disorders
+P0339,Grace Wilson,DI002,Valvular Heart Disease,Beta-blockers,Cardiovascular Diseases
+P0340,Bob Taylor,DI005,Huntington's Disease,Tetrabenazine,Neurological Disorders
+P0341,Charlie Smith,DI007,Diabetic Retinopathy,,Endocrine Disorders
+P0342,Alice Smith,DI008,Contact Dermatitis,Oral Antihistamines,Skin Conditions
+P0343,Bob Smith,DI004,Lupus,Immunosuppressants,Autoimmune Diseases
+P0344,Jack Brown,DI010,Chlamydia,Doxycycline,Infectious Diseases
+P0345,Henry Miller,DI010,Influenza (Flu),Oseltamivir (Tamiflu),Infectious Diseases
+P0346,David Brown,DI003,Whooping Cough (Pertussis),,Respiratory Diseases
+P0347,Jack Williams,DI002,Wolff-Parkinson-White Syndrome,,Cardiovascular Diseases
+P0348,Emma Davis,DI002,Venous Thromboembolism,,Cardiovascular Diseases
+P0349,Jack Miller,DI007,Polycystic Ovary Syndrome (PCOS),Spironolactone,Endocrine Disorders
+P0350,Fiona Williams,DI001,Seasonal Affective Disorder (SAD),SSRIs,Mental Health Disorders
+P0351,Fiona Miller,DI008,Hives (Urticaria),Antihistamines,Skin Conditions
+P0352,Jack Taylor,DI004,Vasculitis,Rituximab,Autoimmune Diseases
+P0353,Isabella Jones,DI007,Hypothyroidism,Armour Thyroid,Endocrine Disorders
+P0354,Alice Davis,DI009,Corneal Ulcer,Preservative-Free Artificial Tears,Eye and Vision Disorders
+P0355,Jack Jones,DI002,Hypertension (High Blood Pressure),Losartan,Cardiovascular Diseases
+P0356,Isabella Davis,DI006,Gastrointestinal Bleeding,Endoscopy,Gastrointestinal Disorders
+P0357,Isabella Smith,DI006,Intestinal Obstruction,Surgery,Gastrointestinal Disorders
+P0358,Fiona Taylor,DI007,Graves' Disease,Radioactive Iodine,Endocrine Disorders
+P0359,Charlie Smith,DI001,Avoidant Personality Disorder,,Mental Health Disorders
+P0360,Grace Moore,DI003,Asthma,Fluticasone,Respiratory Diseases
+P0361,Grace Miller,DI003,Pulmonary Fibrosis,,Respiratory Diseases
+P0362,Isabella Brown,DI005,Narcolepsy,,Neurological Disorders
+P0363,Bob Miller,DI010,Common Cold,,Infectious Diseases
+P0364,Jack Johnson,DI009,Amblyopia (Lazy Eye),Atropine Eye Drops,Eye and Vision Disorders
+P0365,Henry Davis,DI004,Graves' Disease,Beta Blockers,Autoimmune Diseases
+P0366,Charlie Brown,DI007,Hyperthyroidism,Methimazole,Endocrine Disorders
+P0367,Jack Miller,DI001,Major Depressive Disorder (MDD),SNRIs,Mental Health Disorders
+P0368,Bob Wilson,DI009,Color Blindness (Color Vision Deficiency),No Specific Treatment,Eye and Vision Disorders
+P0369,Henry Wilson,DI009,Glaucoma,Lataprost,Eye and Vision Disorders
+P0370,Fiona Wilson,DI009,Pterygium,Surgery (Pterygium Excision),Eye and Vision Disorders
+P0371,Emma Brown,DI001,Attention-Deficit/Hyperactivity Disorder (ADHD),Non-stimulants,Mental Health Disorders
+P0372,Charlie Johnson,DI009,Keratoconus,Intacs (Corneal Inserts),Eye and Vision Disorders
+P0373,Bob Wilson,DI005,Cerebral Palsy,Botox Injections,Neurological Disorders
+P0374,Alice Taylor,DI004,Lupus,Immunosuppressants,Autoimmune Diseases
+P0375,Bob Jones,DI002,Rheumatic Heart Disease,,Cardiovascular Diseases
+P0376,Jack Smith,DI007,Hashimoto's Thyroiditis,Levothyroxine,Endocrine Disorders
+P0377,Grace Jones,DI008,Psoriasis,Salicylic Acid,Skin Conditions
+P0378,Bob Wilson,DI008,Molluscum Contagiosum,Topical Therapy (Imiquimod,Skin Conditions
+P0379,David Johnson,DI005,Amyotrophic Lateral Sclerosis (ALS),,Neurological Disorders
+P0380,David Johnson,DI004,Crohn's Disease,Anti-TNF Drugs,Autoimmune Diseases
+P0381,Grace Johnson,DI004,Autoimmune Hepatitis,Corticosteroids,Autoimmune Diseases
+P0382,Jack Moore,DI006,Peptic Ulcer,H2 Blockers,Gastrointestinal Disorders
+P0383,Grace Taylor,DI002,Rheumatic Heart Disease,,Cardiovascular Diseases
+P0384,Henry Wilson,DI002,Arrhythmia,Propafenone,Cardiovascular Diseases
+P0385,David Davis,DI004,Vasculitis,Glucocorticoids,Autoimmune Diseases
+P0386,Emma Taylor,DI008,Eczema,,Skin Conditions
+P0387,Emma Johnson,DI006,Gastric Cancer,Chemotherapy,Gastrointestinal Disorders
+P0388,Isabella Moore,DI005,Carpal Tunnel Syndrome,,Neurological Disorders
+P0389,Isabella Brown,DI005,Amyotrophic Lateral Sclerosis (ALS),Edaravone,Neurological Disorders
+P0390,Charlie Moore,DI003,Pneumonia,Supportive Care,Respiratory Diseases
+P0391,Alice Williams,DI003,Pulmonary Fibrosis,Nintedanib,Respiratory Diseases
+P0392,Jack Johnson,DI002,Wolff-Parkinson-White Syndrome,,Cardiovascular Diseases
+P0393,Emma Wilson,DI003,Sleep Apnea,,Respiratory Diseases
+P0394,Charlie Johnson,DI002,Arrhythmogenic Right Ventricular Dysplasia,,Cardiovascular Diseases
+P0395,Grace Johnson,DI003,Hay Fever (Allergic Rhinitis),Nasal Corticosteroids,Respiratory Diseases
+P0396,Henry Taylor,DI006,Peptic Ulcer,H2 Blockers,Gastrointestinal Disorders
+P0397,Charlie Moore,DI004,Addison's Disease,,Autoimmune Diseases
+P0398,Fiona Brown,DI008,Cellulitis,Pain Relievers,Skin Conditions
+P0399,Alice Davis,DI005,Epilepsy,Valproic Acid,Neurological Disorders
+P0400,Alice Wilson,DI003,Hay Fever (Allergic Rhinitis),,Respiratory Diseases
+P0401,Isabella Brown,DI001,Eating Disorders,,Mental Health Disorders
+P0402,Emma Miller,DI002,Hypertension (High Blood Pressure),Amlodipine,Cardiovascular Diseases
+P0403,Fiona Jones,DI002,Kawasaki Disease,,Cardiovascular Diseases
+P0404,David Johnson,DI006,Ulcerative Colitis,Immunomodulators,Gastrointestinal Disorders
+P0405,Charlie Wilson,DI008,Hives (Urticaria),,Skin Conditions
+P0406,Fiona Brown,DI007,Polycystic Ovary Syndrome (PCOS),Birth Control Pills,Endocrine Disorders
+P0407,Bob Brown,DI005,Neuropathy,Gabapentin,Neurological Disorders
+P0408,Charlie Jones,DI007,Diabetic Neuropathy,Pregabalin,Endocrine Disorders
+P0409,David Miller,DI006,Hemorrhoids,Topical treatments,Gastrointestinal Disorders
+P0410,Charlie Smith,DI005,Cerebral Palsy,Seizure Medications,Neurological Disorders
+P0411,Isabella Wilson,DI005,Epilepsy,Valproic Acid,Neurological Disorders
+P0412,Fiona Smith,DI008,Herpes Simplex,Famciclovir,Skin Conditions
+P0413,Alice Williams,DI005,Alzheimer's Disease,Rivastigmine,Neurological Disorders
+P0414,Jack Taylor,DI004,Rheumatoid Arthritis,Etanercept,Autoimmune Diseases
+P0415,Bob Miller,DI001,Panic Disorder,SSRIs,Mental Health Disorders
+P0416,Jack Williams,DI002,Heart Failure,Beta-blockers,Cardiovascular Diseases
+P0417,Emma Taylor,DI002,Atrial Fibrillation,Beta-blockers,Cardiovascular Diseases
+P0418,Alice Moore,DI007,Type 1 Diabetes,Insulin Glargine,Endocrine Disorders
+P0419,Bob Williams,DI007,Acromegaly,Pegvisomant,Endocrine Disorders
+P0420,Jack Smith,DI001,Anxiety Disorders,Buspirone,Mental Health Disorders
+P0421,Fiona Moore,DI001,Panic Disorder,,Mental Health Disorders
+P0422,Grace Wilson,DI006,Gastritis,Acid-suppressing medications,Gastrointestinal Disorders
+P0423,Isabella Miller,DI002,Pulmonary Hypertension,Prostacyclin Analogs,Cardiovascular Diseases
+P0424,Bob Miller,DI009,Blepharitis,,Eye and Vision Disorders
+P0425,Emma Brown,DI001,Oppositional Defiant Disorder (ODD),Parent Training,Mental Health Disorders
+P0426,Grace Moore,DI008,Seborrheic Dermatitis,,Skin Conditions
+P0427,Alice Johnson,DI002,Long QT Syndrome,,Cardiovascular Diseases
+P0428,Emma Davis,DI010,Syphilis,Doxycycline,Infectious Diseases
+P0429,Henry Miller,DI008,Cellulitis,Antibiotics (Oral or IV),Skin Conditions
+P0430,David Johnson,DI001,Seasonal Affective Disorder (SAD),Light Therapy,Mental Health Disorders
+P0431,Bob Johnson,DI003,Bronchiectasis,Antibiotics,Respiratory Diseases
+P0432,Alice Miller,DI005,Huntington's Disease,Deutetrabenazine,Neurological Disorders
+P0433,Bob Brown,DI008,Fungal Infections,,Skin Conditions
+P0434,Grace Davis,DI010,Lyme Disease,,Infectious Diseases
+P0435,Isabella Miller,DI008,Rosacea,Glycolic Acid,Skin Conditions
+P0436,Alice Wilson,DI006,Lactose Intolerance,Lactase supplements,Gastrointestinal Disorders
+P0437,Emma Moore,DI010,Gonorrhea,Ceftriaxone,Infectious Diseases
+P0438,Emma Moore,DI005,Guillain-Barré Syndrome,,Neurological Disorders
+P0439,Bob Johnson,DI008,Cellulitis,,Skin Conditions
+P0440,Charlie Johnson,DI002,Angina,Calcium Channel Blockers,Cardiovascular Diseases
+P0441,Bob Williams,DI008,Fungal Infections,,Skin Conditions
+P0442,Jack Johnson,DI005,Bell's Palsy,Corticosteroids,Neurological Disorders
+P0443,Henry Moore,DI007,Type 2 Diabetes,Canagliflozin,Endocrine Disorders
+P0444,Charlie Williams,DI002,Angina,Beta-blockers,Cardiovascular Diseases
+P0445,Bob Davis,DI005,Epilepsy,Lamotrigine,Neurological Disorders
+P0446,Emma Johnson,DI004,Polymyalgia Rheumatica,Corticosteroids,Autoimmune Diseases
+P0447,Emma Jones,DI005,Bell's Palsy,Corticosteroids,Neurological Disorders
+P0448,Henry Johnson,DI005,Charcot-Marie-Tooth Disease,,Neurological Disorders
+P0449,David Brown,DI006,Rectal Prolapse,Biofeedback therapy,Gastrointestinal Disorders
+P0450,Grace Taylor,DI001,Panic Disorder,,Mental Health Disorders
+P0451,Bob Taylor,DI001,Borderline Personality Disorder,Mood Stabilizers,Mental Health Disorders
+P0452,Grace Davis,DI007,Acromegaly,Bromocriptine,Endocrine Disorders
+P0453,Emma Moore,DI002,Pulmonary Hypertension,,Cardiovascular Diseases
+P0454,Emma Williams,DI007,Acromegaly,Bromocriptine,Endocrine Disorders
+P0455,Alice Miller,DI006,Peptic Ulcer Disease,H2 Blockers,Gastrointestinal Disorders
+P0456,Emma Jones,DI006,Gastroparesis,,Gastrointestinal Disorders
+P0457,Charlie Taylor,DI001,Borderline Personality Disorder,Dialectical Behavior Therapy,Mental Health Disorders
+P0458,Charlie Miller,DI001,Social Anxiety Disorder,Beta-blockers,Mental Health Disorders
+P0459,David Smith,DI010,Common Cold,,Infectious Diseases
+P0460,Fiona Jones,DI002,Coronary Artery Disease,Aspirin,Cardiovascular Diseases
+P0461,Bob Johnson,DI010,Influenza (Flu),Peramivir,Infectious Diseases
+P0462,Grace Johnson,DI005,Carpal Tunnel Syndrome,Steroid Injections,Neurological Disorders
+P0463,Isabella Wilson,DI007,Hyperthyroidism,Beta Blockers,Endocrine Disorders
+P0464,David Wilson,DI008,Lichen Planus,,Skin Conditions
+P0465,Charlie Johnson,DI001,Borderline Personality Disorder,Mood Stabilizers,Mental Health Disorders
+P0466,Jack Jones,DI001,Dissociative Identity Disorder,,Mental Health Disorders
+P0467,Henry Brown,DI001,Hoarding Disorder,Cognitive Behavioral Therapy,Mental Health Disorders
+P0468,Jack Brown,DI006,Ulcerative Colitis,Aminosalicylates,Gastrointestinal Disorders
+P0469,Grace Johnson,DI006,Diverticulitis,Pain relievers,Gastrointestinal Disorders
+P0470,Alice Wilson,DI008,Keratosis Pilaris,,Skin Conditions
+P0471,Jack Davis,DI010,Hepatitis B,Tenofovir,Infectious Diseases
+P0472,David Brown,DI009,Cataracts,Surgery (Lens Replacement),Eye and Vision Disorders
+P0473,Fiona Smith,DI009,Corneal Ulcer,,Eye and Vision Disorders
+P0474,David Smith,DI006,Intestinal Obstruction,NG tube,Gastrointestinal Disorders
+P0475,Emma Moore,DI009,Conjunctivitis (Pink Eye),Artificial Tears,Eye and Vision Disorders
+P0476,Grace Wilson,DI007,Growth Hormone Deficiency,,Endocrine Disorders
+P0477,Alice Brown,DI007,Diabetic Neuropathy,Amitriptyline,Endocrine Disorders
+P0478,Alice Moore,DI010,Pneumonia,,Infectious Diseases
+P0479,Grace Johnson,DI004,Ankylosing Spondylitis,TNF inhibitors,Autoimmune Diseases
+P0480,Emma Johnson,DI001,Narcissistic Personality Disorder,Psychotherapy,Mental Health Disorders
+P0481,Isabella Taylor,DI007,Type 2 Diabetes,Metformin,Endocrine Disorders
+P0482,David Jones,DI006,Diverticulitis,Antibiotics,Gastrointestinal Disorders
+P0483,Grace Williams,DI001,Schizophrenia,Antipsychotics,Mental Health Disorders
+P0484,Fiona Wilson,DI009,Macular Degeneration,,Eye and Vision Disorders
+P0485,Grace Wilson,DI001,Panic Disorder,,Mental Health Disorders
+P0486,Alice Moore,DI001,Post-Traumatic Stress Disorder (PTSD),SSRIs,Mental Health Disorders
+P0487,Charlie Miller,DI008,Eczema,,Skin Conditions
+P0488,Emma Taylor,DI010,Syphilis,,Infectious Diseases
+P0489,Alice Miller,DI002,Arrhythmia,Sotalol,Cardiovascular Diseases
+P0490,Henry Miller,DI010,Dengue Fever,Supportive care,Infectious Diseases
+P0491,Henry Williams,DI004,Sjögren's Syndrome,Salivary Substitutes,Autoimmune Diseases
+P0492,Charlie Smith,DI005,Myasthenia Gravis,Pyridostigmine,Neurological Disorders
+P0493,Henry Williams,DI009,Amblyopia (Lazy Eye),Eye Patching,Eye and Vision Disorders
+P0494,David Williams,DI004,Goodpasture's Syndrome,Immunosuppressants,Autoimmune Diseases
+P0495,Jack Wilson,DI009,Uveitis,Immunosuppressive Medications,Eye and Vision Disorders
+P0496,Bob Moore,DI010,Chlamydia,,Infectious Diseases
+P0497,Grace Jones,DI002,Rheumatic Heart Disease,,Cardiovascular Diseases
+P0498,Charlie Taylor,DI008,Hidradenitis Suppurativa,Topical Antibiotics,Skin Conditions
+P0499,Emma Brown,DI001,Eating Disorders,,Mental Health Disorders
+P0500,Jack Wilson,DI006,Celiac Disease,Immune suppressors,Gastrointestinal Disorders
+P0501,Fiona Brown,DI010,Syphilis,,Infectious Diseases
+P0502,Bob Brown,DI001,Dissociative Identity Disorder,,Mental Health Disorders
+P0503,Jack Taylor,DI007,Parathyroid Disorders,Cinacalcet,Endocrine Disorders
+P0504,Henry Davis,DI010,Gonorrhea,Ceftriaxone,Infectious Diseases
+P0505,David Moore,DI005,Parkinson's Disease,Rasagiline,Neurological Disorders
+P0506,Grace Wilson,DI007,Graves' Disease,Propylthiouracil,Endocrine Disorders
+P0507,Jack Moore,DI001,Eating Disorders,Cognitive Behavioral Therapy,Mental Health Disorders
+P0508,Charlie Williams,DI009,Dry Eye Syndrome,Artificial Tears,Eye and Vision Disorders
+P0509,Alice Jones,DI007,Graves' Disease,,Endocrine Disorders
+P0510,David Smith,DI002,Heart Failure,Beta-blockers,Cardiovascular Diseases
+P0511,Emma Moore,DI002,Peripheral Artery Disease,Pentoxifylline,Cardiovascular Diseases
+P0512,Charlie Wilson,DI010,Rubella,,Infectious Diseases
+P0513,Emma Brown,DI010,HIV/AIDS,,Infectious Diseases
+P0514,Fiona Jones,DI004,Hashimoto's Thyroiditis,,Autoimmune Diseases
+P0515,Bob Johnson,DI008,Dermatitis,Emollients,Skin Conditions
+P0516,Alice Miller,DI007,Thyroid Nodules,Thyroid Hormone Replacement,Endocrine Disorders
+P0517,Charlie Smith,DI006,Peptic Ulcer,Antibiotics,Gastrointestinal Disorders
+P0518,Bob Johnson,DI004,Autoimmune Hepatitis,Mycophenolate,Autoimmune Diseases
+P0519,Emma Jones,DI006,Crohn's Disease,Biologics,Gastrointestinal Disorders
+P0520,Emma Williams,DI009,Pterygium,,Eye and Vision Disorders
+P0521,Grace Smith,DI006,Gastroenteritis,Antiemetics,Gastrointestinal Disorders
+P0522,David Taylor,DI005,Epilepsy,Carbamazepine,Neurological Disorders
+P0523,Fiona Williams,DI005,Tourette Syndrome,Clonidine,Neurological Disorders
+P0524,Grace Jones,DI004,Type 1 Diabetes,Insulin,Autoimmune Diseases
+P0525,Fiona Johnson,DI009,Dry Macular Degeneration,Lutein Supplements,Eye and Vision Disorders
+P0526,Bob Moore,DI007,Diabetic Neuropathy,,Endocrine Disorders
+P0527,Charlie Jones,DI010,Typhoid Fever,Azithromycin,Infectious Diseases
+P0528,David Miller,DI005,Narcolepsy,,Neurological Disorders
+P0529,Emma Miller,DI009,Corneal Ulcer,Preservative-Free Artificial Tears,Eye and Vision Disorders
+P0530,Charlie Taylor,DI009,Keratoconus,,Eye and Vision Disorders
+P0531,Alice Jones,DI007,Diabetic Retinopathy,Vascular Endothelial Growth Factor (VEGF) Inhibitors,Endocrine Disorders
+P0532,Isabella Davis,DI005,Alzheimer's Disease,Memantine,Neurological Disorders
+P0533,Alice Brown,DI009,Uveitis,Steroid Eye Drops,Eye and Vision Disorders
+P0534,Emma Smith,DI002,Cardiac Arrest,,Cardiovascular Diseases
+P0535,Grace Moore,DI009,Dry Macular Degeneration,,Eye and Vision Disorders
+P0536,Bob Wilson,DI006,Pancreatitis,Enzyme replacement,Gastrointestinal Disorders
+P0537,Fiona Williams,DI001,Seasonal Affective Disorder (SAD),,Mental Health Disorders
+P0538,Jack Davis,DI005,Radiculopathy,,Neurological Disorders
+P0539,Charlie Wilson,DI008,Vitiligo,,Skin Conditions
+P0540,Henry Moore,DI005,Charcot-Marie-Tooth Disease,Ankle Braces,Neurological Disorders
+P0541,Grace Williams,DI009,Pterygium,,Eye and Vision Disorders
+P0542,Henry Davis,DI003,Cystic Fibrosis,Dornase Alfa,Respiratory Diseases
+P0543,Emma Brown,DI005,Myasthenia Gravis,Prednisone,Neurological Disorders
+P0544,Grace Davis,DI001,Narcissistic Personality Disorder,,Mental Health Disorders
+P0545,Bob Taylor,DI005,Cerebral Aneurysm,,Neurological Disorders
+P0546,Grace Davis,DI010,Chlamydia,,Infectious Diseases
+P0547,Jack Taylor,DI009,Retinoblastoma,Radiation Therapy,Eye and Vision Disorders
+P0548,Grace Johnson,DI001,Anxiety Disorders,Buspirone,Mental Health Disorders
+P0549,Emma Brown,DI006,Lactose Intolerance,Lactase supplements,Gastrointestinal Disorders
+P0550,Emma Williams,DI006,Peptic Ulcer Disease,Antibiotics,Gastrointestinal Disorders
+P0551,Isabella Moore,DI009,Dry Macular Degeneration,Vitamins (AREDS Formulation),Eye and Vision Disorders
+P0552,Jack Jones,DI008,Warts,Freezing (Cryotherapy),Skin Conditions
+P0553,Fiona Smith,DI008,Molluscum Contagiosum,Cantharidin),Skin Conditions
+P0554,Bob Wilson,DI001,Bipolar Disorder,Lithium,Mental Health Disorders
+P0555,Fiona Davis,DI008,Scabies,,Skin Conditions
+P0556,Alice Moore,DI003,Tuberculosis (TB),Ethambutol,Respiratory Diseases
+P0557,Fiona Williams,DI007,Diabetic Neuropathy,Pregabalin,Endocrine Disorders
+P0558,Fiona Davis,DI001,Dissociative Identity Disorder,Psychotherapy,Mental Health Disorders
+P0559,Isabella Jones,DI003,Pulmonary Hypertension,,Respiratory Diseases
+P0560,Emma Jones,DI006,Gastroesophageal Reflux Disease (GERD),Ranitidine,Gastrointestinal Disorders
+P0561,Isabella Williams,DI005,Narcolepsy,Modafinil,Neurological Disorders
+P0562,Grace Williams,DI005,Amyotrophic Lateral Sclerosis (ALS),,Neurological Disorders
+P0563,Fiona Davis,DI006,Rectal Prolapse,Surgery,Gastrointestinal Disorders
+P0564,Grace Johnson,DI001,Narcissistic Personality Disorder,Psychotherapy,Mental Health Disorders
+P0565,Charlie Brown,DI010,Measles,,Infectious Diseases
+P0566,Henry Jones,DI005,Cerebral Palsy,Physical Therapy,Neurological Disorders
+P0567,Alice Davis,DI003,Hay Fever (Allergic Rhinitis),Antihistamines,Respiratory Diseases
+P0568,Fiona Jones,DI001,Post-Traumatic Stress Disorder (PTSD),Prazosin,Mental Health Disorders
+P0569,Alice Johnson,DI008,Warts,Electrocautery,Skin Conditions
+P0570,Emma Moore,DI002,Arrhythmia,Flecainide,Cardiovascular Diseases
+P0571,Jack Moore,DI002,Arrhythmia,Flecainide,Cardiovascular Diseases
+P0572,David Miller,DI009,Amblyopia (Lazy Eye),Atropine Eye Drops,Eye and Vision Disorders
+P0573,Henry Johnson,DI005,Radiculopathy,,Neurological Disorders
+P0574,Jack Johnson,DI001,Narcissistic Personality Disorder,Support Groups,Mental Health Disorders
+P0575,Fiona Moore,DI006,Irritable Bowel Syndrome (IBS),Peppermint oil,Gastrointestinal Disorders
+P0576,Fiona Smith,DI005,Neuropathy,Antidepressants,Neurological Disorders
+P0577,Henry Davis,DI007,Diabetes Insipidus,Desmopressin,Endocrine Disorders
+P0578,David Jones,DI005,Restless Legs Syndrome,Gabapentin,Neurological Disorders
+P0579,Jack Brown,DI002,Wolff-Parkinson-White Syndrome,,Cardiovascular Diseases
+P0580,Grace Moore,DI008,Hidradenitis Suppurativa,Topical Antibiotics,Skin Conditions
+P0581,Bob Miller,DI001,Generalized Anxiety Disorder (GAD),Buspirone,Mental Health Disorders
+P0582,Alice Williams,DI001,Social Anxiety Disorder,Cognitive Behavioral Therapy,Mental Health Disorders
+P0583,Alice Jones,DI006,Gastroenteritis,Antiemetics,Gastrointestinal Disorders
+P0584,Grace Jones,DI001,Generalized Anxiety Disorder (GAD),SSRIs,Mental Health Disorders
+P0585,Bob Jones,DI001,Depression,Bupropion,Mental Health Disorders
+P0586,Isabella Taylor,DI002,Pulmonary Hypertension,Prostacyclin Analogs,Cardiovascular Diseases
+P0587,Fiona Wilson,DI004,Addison's Disease,Glucocorticoid Replacement Therapy,Autoimmune Diseases
+P0588,Jack Williams,DI007,Thyroid Nodules,Radioactive Iodine Ablation,Endocrine Disorders
+P0589,Emma Williams,DI001,Seasonal Affective Disorder (SAD),,Mental Health Disorders
+P0590,Jack Taylor,DI001,Attention-Deficit/Hyperactivity Disorder (ADHD),Non-stimulants,Mental Health Disorders
+P0591,Fiona Johnson,DI002,Coronary Artery Disease,Aspirin,Cardiovascular Diseases
+P0592,Bob Moore,DI005,Migraine,Topiramate,Neurological Disorders
+P0593,Charlie Moore,DI004,Hashimoto's Thyroiditis,,Autoimmune Diseases
+P0594,Grace Miller,DI008,Actinic Keratosis,Topical Chemotherapy,Skin Conditions
+P0595,Emma Wilson,DI007,Parathyroid Disorders,,Endocrine Disorders
+P0596,Bob Moore,DI005,Charcot-Marie-Tooth Disease,,Neurological Disorders
+P0597,Henry Johnson,DI010,Hepatitis A,,Infectious Diseases
+P0598,Henry Brown,DI006,Irritable Bowel Syndrome (IBS),Fiber supplements,Gastrointestinal Disorders
+P0599,Charlie Williams,DI006,Intestinal Obstruction,IV fluids,Gastrointestinal Disorders
+P0600,Charlie Davis,DI003,Whooping Cough (Pertussis),,Respiratory Diseases
+P0601,Isabella Smith,DI002,Arrhythmia,Propafenone,Cardiovascular Diseases
+P0602,Grace Davis,DI003,Mesothelioma,Chemotherapy,Respiratory Diseases
+P0603,Fiona Smith,DI002,Peripheral Artery Disease,Clopidogrel,Cardiovascular Diseases
+P0604,Isabella Brown,DI009,Strabismus,,Eye and Vision Disorders
+P0605,Grace Moore,DI001,Obsessive-Compulsive Disorder (OCD),Cognitive Behavioral Therapy,Mental Health Disorders
+P0606,Grace Williams,DI006,Gastroparesis,,Gastrointestinal Disorders
+P0607,Emma Wilson,DI002,Arrhythmia,Sotalol,Cardiovascular Diseases
+P0608,Henry Johnson,DI010,Typhoid Fever,Ciprofloxacin,Infectious Diseases
+P0609,Jack Wilson,DI002,Arrhythmogenic Right Ventricular Dysplasia,,Cardiovascular Diseases
+P0610,Jack Taylor,DI002,Wolff-Parkinson-White Syndrome,Catheter Ablation,Cardiovascular Diseases
+P0611,Fiona Davis,DI003,Influenza (Flu),,Respiratory Diseases
+P0612,Fiona Brown,DI008,Lichen Planus,Oral Corticosteroids,Skin Conditions
+P0613,Alice Wilson,DI005,Cerebral Palsy,Baclofen,Neurological Disorders
+P0614,Grace Jones,DI001,Depression,SSRIs,Mental Health Disorders
+P0615,Bob Taylor,DI005,Neuropathy,,Neurological Disorders
+P0616,Jack Johnson,DI007,Pheochromocytoma,Propranolol,Endocrine Disorders
+P0617,Charlie Williams,DI005,Restless Legs Syndrome,Pramipexole,Neurological Disorders
+P0618,David Johnson,DI008,Psoriasis,Calcipotriene,Skin Conditions
+P0619,Fiona Moore,DI009,Dry Macular Degeneration,,Eye and Vision Disorders
+P0620,Emma Wilson,DI002,Aortic Aneurysm,Surgery,Cardiovascular Diseases
+P0621,David Wilson,DI007,Hyperthyroidism,Beta Blockers,Endocrine Disorders
+P0622,Bob Williams,DI002,Venous Thromboembolism,Compression Stockings,Cardiovascular Diseases
+P0623,Isabella Jones,DI009,Blepharitis,,Eye and Vision Disorders
+P0624,Emma Williams,DI008,Dermatitis,Oral Antihistamines,Skin Conditions
+P0625,Jack Smith,DI009,Cataracts,,Eye and Vision Disorders
+P0626,David Wilson,DI009,Dacryocystitis,Topical Antibiotic Ointment,Eye and Vision Disorders
+P0627,Alice Wilson,DI009,Conjunctivitis (Pink Eye),Antibiotic Eye Drops,Eye and Vision Disorders
+P0628,Jack Brown,DI005,Cerebral Aneurysm,,Neurological Disorders
+P0629,Jack Johnson,DI003,Interstitial Lung Disease,,Respiratory Diseases
+P0630,Grace Moore,DI010,Rubella,Supportive care,Infectious Diseases
+P0631,Charlie Jones,DI008,Fungal Infections,Antifungal Creams,Skin Conditions
+P0632,Alice Johnson,DI001,Hoarding Disorder,Medication,Mental Health Disorders
+P0633,Isabella Jones,DI007,Cushing's Syndrome,Ketoconazole,Endocrine Disorders
+P0634,David Brown,DI002,Peripheral Artery Disease,Aspirin,Cardiovascular Diseases
+P0635,David Smith,DI006,Intestinal Obstruction,NG tube,Gastrointestinal Disorders
+P0636,Henry Smith,DI001,Bipolar Disorder,Lithium,Mental Health Disorders
+P0637,Isabella Miller,DI010,Rubella,Supportive care,Infectious Diseases
+P0638,Bob Williams,DI005,Carpal Tunnel Syndrome,Steroid Injections,Neurological Disorders
+P0639,Bob Miller,DI008,Hives (Urticaria),,Skin Conditions
+P0640,Isabella Smith,DI004,Crohn's Disease,Corticosteroids,Autoimmune Diseases
+P0641,Grace Brown,DI005,Multiple Sclerosis,Natalizumab,Neurological Disorders
+P0642,Emma Jones,DI001,Hoarding Disorder,,Mental Health Disorders
+P0643,Grace Miller,DI001,Schizophrenia,Antipsychotics,Mental Health Disorders
+P0644,Emma Moore,DI008,Warts,Salicylic Acid,Skin Conditions
+P0645,Grace Jones,DI007,Growth Hormone Deficiency,Recombinant Human Growth Hormone,Endocrine Disorders
+P0646,Jack Johnson,DI010,Common Cold,Over-the-counter cold and flu medications,Infectious Diseases
+P0647,Isabella Davis,DI002,Atrial Fibrillation,Calcium Channel Blockers,Cardiovascular Diseases
+P0648,Grace Taylor,DI008,Seborrheic Dermatitis,,Skin Conditions
+P0649,Alice Taylor,DI010,Hepatitis A,,Infectious Diseases
+P0650,Bob Wilson,DI002,Pulmonary Hypertension,,Cardiovascular Diseases
+P0651,Grace Jones,DI007,Hashimoto's Thyroiditis,Levothyroxine,Endocrine Disorders
+P0652,Emma Johnson,DI007,Cushing's Syndrome,Radiation Therapy,Endocrine Disorders
+P0653,Charlie Johnson,DI005,Amyotrophic Lateral Sclerosis (ALS),Riluzole,Neurological Disorders
+P0654,Emma Smith,DI001,Postpartum Depression,SSRIs,Mental Health Disorders
+P0655,David Johnson,DI009,Corneal Ulcer,Preservative-Free Artificial Tears,Eye and Vision Disorders
+P0656,Jack Williams,DI008,Cellulitis,,Skin Conditions
+P0657,David Taylor,DI005,Parkinson's Disease,Entacapone,Neurological Disorders
+P0658,Grace Taylor,DI004,Hashimoto's Thyroiditis,Levothyroxine (for hypothyroidism),Autoimmune Diseases
+P0659,Jack Taylor,DI007,Acromegaly,Bromocriptine,Endocrine Disorders
+P0660,Emma Moore,DI001,Dissociative Identity Disorder,,Mental Health Disorders
+P0661,David Wilson,DI009,Pterygium,,Eye and Vision Disorders
+P0662,David Brown,DI003,Sarcoidosis,Immunosuppressants,Respiratory Diseases
+P0663,Isabella Miller,DI009,Pterygium,Surgery (Pterygium Excision),Eye and Vision Disorders
+P0664,Bob Wilson,DI006,Irritable Bowel Syndrome (IBS),Antispasmodics,Gastrointestinal Disorders
+P0665,Emma Davis,DI002,Hypertension (High Blood Pressure),Lisinopril,Cardiovascular Diseases
+P0666,Emma Davis,DI005,Amyotrophic Lateral Sclerosis (ALS),,Neurological Disorders
+P0667,Alice Brown,DI002,Venous Thromboembolism,,Cardiovascular Diseases
+P0668,Henry Miller,DI010,Typhoid Fever,,Infectious Diseases
+P0669,Grace Brown,DI003,Asthma,Albuterol,Respiratory Diseases
+P0670,Grace Davis,DI009,Uveitis,,Eye and Vision Disorders
+P0671,Grace Williams,DI010,Gonorrhea,Azithromycin,Infectious Diseases
+P0672,Bob Brown,DI005,Cerebral Palsy,Seizure Medications,Neurological Disorders
+P0673,Henry Moore,DI009,Retinoblastoma,Enucleation (Eye Removal),Eye and Vision Disorders
+P0674,Emma Brown,DI004,Pemphigus,Rituximab,Autoimmune Diseases
+P0675,Emma Jones,DI005,Narcolepsy,Sodium Oxybate,Neurological Disorders
+P0676,Henry Davis,DI001,Depression,SNRIs,Mental Health Disorders
+P0677,Isabella Wilson,DI010,Cholera,,Infectious Diseases
+P0678,Henry Miller,DI010,Measles,,Infectious Diseases
+P0679,Charlie Brown,DI003,Hay Fever (Allergic Rhinitis),Antihistamines,Respiratory Diseases
+P0680,Grace Jones,DI009,Optic Neuritis,Plasma Exchange (Plasmapheresis),Eye and Vision Disorders
+P0681,David Moore,DI006,Gastrointestinal Bleeding,Blood transfusion,Gastrointestinal Disorders
+P0682,Alice Moore,DI002,Atrial Fibrillation,Beta-blockers,Cardiovascular Diseases
+P0683,Emma Davis,DI007,Type 1 Diabetes,Insulin Detemir,Endocrine Disorders
+P0684,Alice Moore,DI005,Neuropathy,Antidepressants,Neurological Disorders
+P0685,David Wilson,DI010,Syphilis,Penicillin,Infectious Diseases
+P0686,Emma Smith,DI004,Lupus,Immunosuppressants,Autoimmune Diseases
+P0687,Alice Davis,DI003,Pleurisy,Anti-inflammatory Drugs,Respiratory Diseases
+P0688,Fiona Moore,DI005,Migraine,Propranolol,Neurological Disorders
+P0689,Emma Jones,DI008,Hives (Urticaria),,Skin Conditions
+P0690,Bob Johnson,DI003,Pulmonary Embolism,Thrombolytics,Respiratory Diseases
+P0691,Jack Johnson,DI002,Heart Failure,Diuretics,Cardiovascular Diseases
+P0692,Alice Williams,DI010,Cholera,,Infectious Diseases
+P0693,David Taylor,DI003,Hay Fever (Allergic Rhinitis),Nasal Corticosteroids,Respiratory Diseases
+P0694,Alice Williams,DI006,Gastroesophageal Reflux Disease (GERD),Ranitidine,Gastrointestinal Disorders
+P0695,Emma Williams,DI008,Seborrheic Dermatitis,,Skin Conditions
+P0696,Isabella Jones,DI007,Hyperaldosteronism,Eplerenone,Endocrine Disorders
+P0697,Emma Davis,DI009,Presbyopia,Monovision Contact Lenses,Eye and Vision Disorders
+P0698,Fiona Wilson,DI002,Valvular Heart Disease,Beta-blockers,Cardiovascular Diseases
+P0699,Grace Miller,DI001,Avoidant Personality Disorder,,Mental Health Disorders
+P0700,Emma Wilson,DI010,HIV/AIDS,,Infectious Diseases
+P0701,Jack Brown,DI005,Restless Legs Syndrome,Pramipexole,Neurological Disorders
+P0702,David Jones,DI008,Scabies,Permethrin Cream,Skin Conditions
+P0703,David Johnson,DI008,Dermatitis,,Skin Conditions
+P0704,Grace Davis,DI009,Dacryocystitis,,Eye and Vision Disorders
+P0705,Henry Johnson,DI010,Common Cold,,Infectious Diseases
+P0706,Bob Miller,DI001,Anxiety Disorders,Benzodiazepines,Mental Health Disorders
+P0707,David Smith,DI003,Chronic Bronchitis,Inhaled Corticosteroids,Respiratory Diseases
+P0708,Alice Davis,DI006,Lactose Intolerance,Dietary changes,Gastrointestinal Disorders
+P0709,Bob Williams,DI007,Hyperthyroidism,Beta Blockers,Endocrine Disorders
+P0710,Isabella Johnson,DI008,Warts,Electrocautery,Skin Conditions
+P0711,Charlie Johnson,DI009,Dacryocystitis,,Eye and Vision Disorders
+P0712,Bob Miller,DI009,Dacryocystitis,,Eye and Vision Disorders
+P0713,Bob Smith,DI002,Arrhythmia,Propafenone,Cardiovascular Diseases
+P0714,Alice Davis,DI010,Cholera,,Infectious Diseases
+P0715,Charlie Moore,DI001,Insomnia,Sedative-Hypnotic Medications,Mental Health Disorders
+P0716,Fiona Smith,DI007,Hypopituitarism,Estrogen and Testosterone Replacement,Endocrine Disorders
+P0717,Grace Davis,DI001,Dissociative Identity Disorder,,Mental Health Disorders
+P0718,Henry Wilson,DI005,Tourette Syndrome,,Neurological Disorders
+P0719,Emma Miller,DI010,Cholera,,Infectious Diseases
+P0720,Charlie Brown,DI002,Angina,,Cardiovascular Diseases
+P0721,Bob Brown,DI009,Strabismus,Eye Muscle Surgery,Eye and Vision Disorders
+P0722,Fiona Wilson,DI009,Strabismus,Corrective Glasses,Eye and Vision Disorders
+P0723,Henry Smith,DI010,Gonorrhea,Azithromycin,Infectious Diseases
+P0724,Emma Williams,DI002,Arrhythmogenic Right Ventricular Dysplasia,,Cardiovascular Diseases
+P0725,Emma Moore,DI002,Hypertension (High Blood Pressure),Amlodipine,Cardiovascular Diseases
+P0726,Fiona Jones,DI009,Blepharitis,Topical Antibiotics,Eye and Vision Disorders
+P0727,Grace Jones,DI005,Trigeminal Neuralgia,Carbamazepine,Neurological Disorders
+P0728,Bob Jones,DI002,Arrhythmia,Flecainide,Cardiovascular Diseases
+P0729,Fiona Taylor,DI002,Cardiac Arrest,Cardiopulmonary Resuscitation (CPR),Cardiovascular Diseases
+P0730,Jack Williams,DI002,Long QT Syndrome,,Cardiovascular Diseases
+P0731,Charlie Jones,DI002,Peripheral Artery Disease,Aspirin,Cardiovascular Diseases
+P0732,Isabella Williams,DI002,Venous Thromboembolism,Compression Stockings,Cardiovascular Diseases
+P0733,David Moore,DI008,Fungal Infections,,Skin Conditions
+P0734,Fiona Moore,DI005,Neuropathy,,Neurological Disorders
+P0735,Charlie Taylor,DI002,Coronary Artery Disease,ACE inhibitors,Cardiovascular Diseases
+P0736,Bob Brown,DI004,Sjögren's Syndrome,Salivary Substitutes,Autoimmune Diseases
+P0737,Grace Williams,DI005,Neuropathy,Gabapentin,Neurological Disorders
+P0738,David Moore,DI002,Wolff-Parkinson-White Syndrome,,Cardiovascular Diseases
+P0739,Isabella Wilson,DI010,Mumps,Supportive care,Infectious Diseases
+P0740,Jack Jones,DI006,Gastric Cancer,Targeted therapies,Gastrointestinal Disorders
+P0741,Jack Moore,DI009,Uveitis,,Eye and Vision Disorders
+P0742,Grace Davis,DI004,Graves' Disease,Antithyroid Medications (Methimazole,Autoimmune Diseases
+P0743,Emma Taylor,DI010,Malaria,Artemisinin-based combination therapy,Infectious Diseases
+P0744,Emma Brown,DI009,Retinoblastoma,Radiation Therapy,Eye and Vision Disorders
+P0745,David Johnson,DI004,Myasthenia Gravis,Immunosuppressants,Autoimmune Diseases
+P0746,Jack Smith,DI007,Growth Hormone Deficiency,,Endocrine Disorders
+P0747,Alice Brown,DI007,Hyperparathyroidism,Parathyroidectomy,Endocrine Disorders
+P0748,Grace Johnson,DI007,Adrenal Insufficiency,Fludrocortisone,Endocrine Disorders
+P0749,Alice Miller,DI009,Presbyopia,Progressive Lenses,Eye and Vision Disorders
+P0750,Jack Moore,DI004,Rheumatoid Arthritis,Adalimumab,Autoimmune Diseases
+P0751,David Jones,DI010,Hepatitis B,Tenofovir,Infectious Diseases
+P0752,Isabella Moore,DI003,Tuberculosis (TB),Rifampin,Respiratory Diseases
+P0753,Jack Miller,DI005,Guillain-Barré Syndrome,,Neurological Disorders
+P0754,Henry Davis,DI003,Pulmonary Hypertension,Endothelin Receptor Antagonists,Respiratory Diseases
+P0755,Henry Moore,DI009,Color Blindness (Color Vision Deficiency),,Eye and Vision Disorders
+P0756,Emma Miller,DI006,Gastrointestinal Bleeding,Endoscopy,Gastrointestinal Disorders
+P0757,Henry Miller,DI002,Heart Failure,ACE inhibitors,Cardiovascular Diseases
+P0758,Jack Brown,DI006,Crohn's Disease,Aminosalicylates,Gastrointestinal Disorders
+P0759,Bob Williams,DI005,Narcolepsy,Sodium Oxybate,Neurological Disorders
+P0760,David Davis,DI001,Attention-Deficit/Hyperactivity Disorder (ADHD),Non-stimulants,Mental Health Disorders
+P0761,Charlie Taylor,DI005,Alzheimer's Disease,Rivastigmine,Neurological Disorders
+P0762,Henry Miller,DI005,Alzheimer's Disease,Rivastigmine,Neurological Disorders
+P0763,Alice Wilson,DI009,Optic Neuritis,Intravenous Corticosteroids,Eye and Vision Disorders
+P0764,Charlie Jones,DI001,Narcissistic Personality Disorder,Psychotherapy,Mental Health Disorders
+P0765,Bob Smith,DI004,Type 1 Diabetes,Glucagon-like peptide-1 (GLP-1) receptor agonists,Autoimmune Diseases
+P0766,Jack Brown,DI003,Mesothelioma,Surgery,Respiratory Diseases
+P0767,Alice Brown,DI010,Typhoid Fever,,Infectious Diseases
+P0768,Henry Davis,DI005,Migraine,Propranolol,Neurological Disorders
+P0769,Henry Johnson,DI010,Typhoid Fever,,Infectious Diseases
+P0770,Isabella Jones,DI002,Venous Thromboembolism,,Cardiovascular Diseases
+P0771,Bob Brown,DI001,Attention-Deficit/Hyperactivity Disorder (ADHD),,Mental Health Disorders
+P0772,Fiona Brown,DI010,HIV/AIDS,,Infectious Diseases
+P0773,Jack Moore,DI001,Major Depressive Disorder (MDD),Therapy,Mental Health Disorders
+P0774,Isabella Davis,DI010,Whooping Cough (Pertussis),,Infectious Diseases
+P0775,Fiona Williams,DI007,Hyperparathyroidism,Cinacalcet,Endocrine Disorders
+P0776,Grace Williams,DI003,Common Cold,Over-the-counter cold and flu medications,Respiratory Diseases
+P0777,Emma Brown,DI001,Obsessive-Compulsive Disorder (OCD),Cognitive Behavioral Therapy,Mental Health Disorders
+P0778,Jack Taylor,DI006,Peptic Ulcer Disease,PPIs (Proton Pump Inhibitors),Gastrointestinal Disorders
+P0779,Emma Davis,DI008,Fungal Infections,,Skin Conditions
+P0780,Henry Brown,DI005,Multiple Sclerosis,Interferon Beta,Neurological Disorders
+P0781,Alice Brown,DI003,Pulmonary Embolism,,Respiratory Diseases
+P0782,Grace Smith,DI009,Color Blindness (Color Vision Deficiency),,Eye and Vision Disorders
+P0783,Jack Johnson,DI009,Color Blindness (Color Vision Deficiency),,Eye and Vision Disorders
+P0784,Alice Johnson,DI004,Addison's Disease,Mineralocorticoid Replacement,Autoimmune Diseases
+P0785,Jack Davis,DI008,Seborrheic Dermatitis,,Skin Conditions
+P0786,Henry Brown,DI003,Influenza (Flu),Oseltamivir (Tamiflu),Respiratory Diseases
+P0787,Charlie Williams,DI007,Type 2 Diabetes,Glipizide,Endocrine Disorders
+P0788,Jack Miller,DI004,Behçet's Disease,Corticosteroids,Autoimmune Diseases
+P0789,Alice Moore,DI003,Pulmonary Hypertension,Prostacyclin Analogs,Respiratory Diseases
+P0790,Henry Williams,DI001,Anxiety Disorders,Buspirone,Mental Health Disorders
+P0791,Fiona Miller,DI001,Borderline Personality Disorder,Mood Stabilizers,Mental Health Disorders
+P0792,Alice Brown,DI008,Hidradenitis Suppurativa,,Skin Conditions
+P0793,David Smith,DI004,Hashimoto's Thyroiditis,Levothyroxine (for hypothyroidism),Autoimmune Diseases
+P0794,Bob Williams,DI006,Diverticulitis,Pain relievers,Gastrointestinal Disorders
+P0795,Fiona Taylor,DI008,Eczema,Topical Steroids,Skin Conditions
+P0796,Emma Jones,DI008,Fungal Infections,Antifungal Creams,Skin Conditions
+P0797,Isabella Jones,DI008,Molluscum Contagiosum,Cantharidin),Skin Conditions
+P0798,David Jones,DI001,Eating Disorders,,Mental Health Disorders
+P0799,Bob Brown,DI009,Amblyopia (Lazy Eye),,Eye and Vision Disorders
+P0800,Bob Williams,DI010,HIV/AIDS,,Infectious Diseases
+P0801,Fiona Williams,DI006,Gastroesophageal Reflux Disease (GERD),Omeprazole,Gastrointestinal Disorders
+P0802,Bob Miller,DI003,Pleurisy,Anti-inflammatory Drugs,Respiratory Diseases
+P0803,Alice Wilson,DI010,Common Cold,Over-the-counter cold and flu medications,Infectious Diseases
+P0804,David Wilson,DI009,Presbyopia,Reading Glasses,Eye and Vision Disorders
+P0805,Fiona Davis,DI001,Narcissistic Personality Disorder,Support Groups,Mental Health Disorders
+P0806,Isabella Williams,DI009,Color Blindness (Color Vision Deficiency),,Eye and Vision Disorders
+P0807,Fiona Moore,DI010,Rubella,Supportive care,Infectious Diseases
+P0808,Isabella Jones,DI007,Type 1 Diabetes,Insulin Aspart,Endocrine Disorders
+P0809,Alice Smith,DI010,Gonorrhea,,Infectious Diseases
+P0810,Bob Taylor,DI003,Sarcoidosis,Immunosuppressants,Respiratory Diseases
+P0811,Fiona Wilson,DI010,HIV/AIDS,,Infectious Diseases
+P0812,Charlie Johnson,DI002,Heart Failure,ACE inhibitors,Cardiovascular Diseases
+P0813,Fiona Williams,DI005,Cerebral Aneurysm,Surgery,Neurological Disorders
+P0814,David Johnson,DI004,Alopecia Areata,Minoxidil,Autoimmune Diseases
+P0815,Isabella Moore,DI008,Lichen Planus,Oral Corticosteroids,Skin Conditions
+P0816,Grace Davis,DI004,Behçet's Disease,Corticosteroids,Autoimmune Diseases
+P0817,Jack Wilson,DI001,Oppositional Defiant Disorder (ODD),,Mental Health Disorders
+P0818,Alice Taylor,DI003,Hay Fever (Allergic Rhinitis),,Respiratory Diseases
+P0819,Isabella Taylor,DI008,Dermatitis,,Skin Conditions
+P0820,Emma Smith,DI010,Typhoid Fever,,Infectious Diseases
+P0821,Jack Johnson,DI006,Gallstones,Lithotripsy,Gastrointestinal Disorders
+P0822,Jack Johnson,DI010,Typhoid Fever,,Infectious Diseases
+P0823,Isabella Wilson,DI008,Dermatitis,Topical Corticosteroids,Skin Conditions
+P0824,Alice Taylor,DI010,Typhoid Fever,Ciprofloxacin,Infectious Diseases
+P0825,Fiona Miller,DI009,Dry Macular Degeneration,,Eye and Vision Disorders
+P0826,Charlie Brown,DI007,Polycystic Ovary Syndrome (PCOS),Spironolactone,Endocrine Disorders
+P0827,Isabella Jones,DI006,Intestinal Obstruction,Surgery,Gastrointestinal Disorders
+P0828,David Smith,DI005,Guillain-Barré Syndrome,Intravenous Immunoglobulin (IVIG),Neurological Disorders
+P0829,Bob Johnson,DI007,Cushing's Syndrome,Radiation Therapy,Endocrine Disorders
+P0830,David Jones,DI009,Uveitis,Steroid Eye Drops,Eye and Vision Disorders
+P0831,Fiona Wilson,DI003,Common Cold,,Respiratory Diseases
+P0832,Charlie Moore,DI001,Eating Disorders,Cognitive Behavioral Therapy,Mental Health Disorders
+P0833,Alice Brown,DI005,Narcolepsy,,Neurological Disorders
+P0834,Alice Taylor,DI009,Optic Neuritis,,Eye and Vision Disorders
+P0835,Charlie Williams,DI001,Post-Traumatic Stress Disorder (PTSD),Cognitive Processing Therapy,Mental Health Disorders
+P0836,Bob Smith,DI005,Bell's Palsy,Artificial Tears,Neurological Disorders
+P0837,Jack Wilson,DI005,Migraine,Topiramate,Neurological Disorders
+P0838,Charlie Johnson,DI010,Influenza (Flu),Zanamivir (Relenza),Infectious Diseases
+P0839,Alice Johnson,DI009,Retinopathy of Prematurity (ROP),,Eye and Vision Disorders
+P0840,Charlie Smith,DI007,Hashimoto's Thyroiditis,,Endocrine Disorders
+P0841,Grace Jones,DI002,Peripheral Artery Disease,Clopidogrel,Cardiovascular Diseases
+P0842,Emma Brown,DI002,Peripheral Artery Disease,Clopidogrel,Cardiovascular Diseases
+P0843,Alice Johnson,DI003,Interstitial Lung Disease,,Respiratory Diseases
+P0844,David Jones,DI002,Peripheral Artery Disease,Cilostazol,Cardiovascular Diseases
+P0845,Jack Moore,DI007,Polycystic Ovary Syndrome (PCOS),Metformin,Endocrine Disorders
+P0846,Isabella Smith,DI006,Celiac Disease,Immune suppressors,Gastrointestinal Disorders
+P0847,Emma Smith,DI002,Venous Thromboembolism,,Cardiovascular Diseases
+P0848,Bob Davis,DI004,Autoimmune Hepatitis,Azathioprine,Autoimmune Diseases
+P0849,Henry Johnson,DI005,Radiculopathy,,Neurological Disorders
+P0850,Charlie Brown,DI006,Hemorrhoids,Pain relievers,Gastrointestinal Disorders
+P0851,Bob Smith,DI004,Myasthenia Gravis,Pyridostigmine,Autoimmune Diseases
+P0852,Fiona Davis,DI004,Autoimmune Hepatitis,Azathioprine,Autoimmune Diseases
+P0853,Isabella Taylor,DI005,Tourette Syndrome,,Neurological Disorders
+P0854,Fiona Smith,DI002,Kawasaki Disease,Intravenous Immunoglobulin (IVIG),Cardiovascular Diseases
+P0855,Isabella Smith,DI003,Cystic Fibrosis,Ivacaftor,Respiratory Diseases
+P0856,Isabella Williams,DI008,Psoriasis,Calcipotriene,Skin Conditions
+P0857,Isabella Davis,DI003,COPD (Chronic Bronchitis and Emphysema),Bronchodilators,Respiratory Diseases
+P0858,Charlie Moore,DI004,Rheumatoid Arthritis,Etanercept,Autoimmune Diseases
+P0859,Charlie Moore,DI003,Pulmonary Fibrosis,,Respiratory Diseases
+P0860,Emma Wilson,DI006,Gastrointestinal Bleeding,Medications to stop bleeding,Gastrointestinal Disorders
+P0861,Charlie Williams,DI008,Shingles (Herpes Zoster),,Skin Conditions
+P0862,Alice Miller,DI002,Arrhythmogenic Right Ventricular Dysplasia,,Cardiovascular Diseases
+P0863,Jack Taylor,DI007,Hashimoto's Thyroiditis,,Endocrine Disorders
+P0864,Charlie Johnson,DI009,Blepharitis,Warm Compresses,Eye and Vision Disorders
+P0865,Emma Johnson,DI003,Bronchiectasis,Airway Clearance Techniques,Respiratory Diseases
+P0866,David Davis,DI009,Pterygium,,Eye and Vision Disorders
+P0867,Henry Davis,DI001,Borderline Personality Disorder,Mood Stabilizers,Mental Health Disorders
+P0868,Emma Miller,DI007,Graves' Disease,Radioactive Iodine,Endocrine Disorders
+P0869,Fiona Miller,DI005,Carpal Tunnel Syndrome,NSAIDs,Neurological Disorders
+P0870,Isabella Wilson,DI004,Ankylosing Spondylitis,TNF inhibitors,Autoimmune Diseases
+P0871,Charlie Williams,DI001,Post-Traumatic Stress Disorder (PTSD),Cognitive Processing Therapy,Mental Health Disorders
+P0872,Henry Williams,DI010,Mumps,,Infectious Diseases
+P0873,Alice Brown,DI010,Pneumonia,Antibiotics (various types),Infectious Diseases
+P0874,Bob Williams,DI010,Rubella,Supportive care,Infectious Diseases
+P0875,Charlie Jones,DI001,Generalized Anxiety Disorder (GAD),SNRIs,Mental Health Disorders
+P0876,Fiona Davis,DI002,Aortic Aneurysm,Beta-blockers,Cardiovascular Diseases
+P0877,Fiona Moore,DI001,Dissociative Identity Disorder,,Mental Health Disorders
+P0878,Alice Smith,DI009,Strabismus,Corrective Glasses,Eye and Vision Disorders
+P0879,Grace Wilson,DI004,Psoriasis,Biologics,Autoimmune Diseases
+P0880,Jack Jones,DI005,Tourette Syndrome,,Neurological Disorders
+P0881,Grace Brown,DI002,Coronary Artery Disease,Aspirin,Cardiovascular Diseases
+P0882,Grace Smith,DI006,Gallstones,Ursodeoxycholic acid (UDCA),Gastrointestinal Disorders
+P0883,Emma Johnson,DI001,Obsessive-Compulsive Disorder (OCD),Clomipramine,Mental Health Disorders
+P0884,Charlie Johnson,DI008,Molluscum Contagiosum,Curettage,Skin Conditions
+P0885,Bob Smith,DI010,Tuberculosis (TB),Ethambutol,Infectious Diseases
+P0886,Charlie Jones,DI005,Restless Legs Syndrome,Gabapentin,Neurological Disorders
+P0887,Charlie Taylor,DI003,Sarcoidosis,Immunosuppressants,Respiratory Diseases
+P0888,Alice Miller,DI008,Hidradenitis Suppurativa,Oral Antibiotics,Skin Conditions
+P0889,David Moore,DI006,Irritable Bowel Syndrome (IBS),Fiber supplements,Gastrointestinal Disorders
+P0890,Grace Smith,DI010,Influenza (Flu),,Infectious Diseases
+P0891,Grace Brown,DI010,Pneumonia,Antibiotics (various types),Infectious Diseases
+P0892,Henry Brown,DI003,Pneumothorax,Thoracostomy,Respiratory Diseases
+P0893,Charlie Williams,DI010,Tuberculosis (TB),Ethambutol,Infectious Diseases
+P0894,Jack Moore,DI004,Autoimmune Hepatitis,Corticosteroids,Autoimmune Diseases
+P0895,Fiona Smith,DI001,Depression,SSRIs,Mental Health Disorders
+P0896,Charlie Moore,DI008,Hives (Urticaria),,Skin Conditions
+P0897,Isabella Davis,DI001,Narcissistic Personality Disorder,,Mental Health Disorders
+P0898,Alice Smith,DI010,Syphilis,,Infectious Diseases
+P0899,Emma Miller,DI009,Keratoconus,Corneal Collagen Cross-Linking,Eye and Vision Disorders
+P0900,Jack Brown,DI004,Type 1 Diabetes,Insulin,Autoimmune Diseases
+P0901,Charlie Taylor,DI002,Arrhythmia,Amiodarone,Cardiovascular Diseases
+P0902,Fiona Johnson,DI006,Gastric Cancer,Surgery,Gastrointestinal Disorders
+P0903,Isabella Johnson,DI003,Pleurisy,,Respiratory Diseases
+P0904,David Davis,DI010,Influenza (Flu),Peramivir,Infectious Diseases
+P0905,Isabella Taylor,DI006,Gallstones,Lithotripsy,Gastrointestinal Disorders
+P0906,Bob Davis,DI006,Gastric Cancer,Surgery,Gastrointestinal Disorders
+P0907,Grace Davis,DI002,Rheumatic Heart Disease,Anti-inflammatory Drugs,Cardiovascular Diseases
+P0908,David Moore,DI005,Carpal Tunnel Syndrome,,Neurological Disorders
+P0909,Fiona Smith,DI006,Peptic Ulcer Disease,Antibiotics,Gastrointestinal Disorders
+P0910,Alice Williams,DI010,Pneumonia,,Infectious Diseases
+P0911,Grace Williams,DI007,Type 2 Diabetes,Glipizide,Endocrine Disorders
+P0912,Bob Johnson,DI003,Influenza (Flu),Oseltamivir (Tamiflu),Respiratory Diseases
+P0913,Charlie Williams,DI005,Bell's Palsy,Corticosteroids,Neurological Disorders
+P0914,Grace Jones,DI010,Tuberculosis (TB),Isoniazid,Infectious Diseases
+P0915,Alice Taylor,DI007,Hyperthyroidism,Propylthiouracil,Endocrine Disorders
+P0916,Isabella Davis,DI003,Interstitial Lung Disease,Corticosteroids,Respiratory Diseases
+P0917,Fiona Moore,DI002,Cardiac Arrest,,Cardiovascular Diseases
+P0918,Bob Moore,DI007,Acromegaly,Pegvisomant,Endocrine Disorders
+P0919,Emma Wilson,DI004,Alopecia Areata,Topical Corticosteroids,Autoimmune Diseases
+P0920,Jack Miller,DI001,Eating Disorders,,Mental Health Disorders
+P0921,Jack Taylor,DI008,Warts,Electrocautery,Skin Conditions
+P0922,Henry Johnson,DI005,Narcolepsy,Sodium Oxybate,Neurological Disorders
+P0923,Henry Wilson,DI009,Uveitis,Cycloplegic Eye Drops,Eye and Vision Disorders
+P0924,Bob Johnson,DI003,Pulmonary Hypertension,,Respiratory Diseases
+P0925,Charlie Brown,DI009,Conjunctivitis (Pink Eye),Antihistamine Eye Drops,Eye and Vision Disorders
+P0926,Alice Miller,DI008,Psoriasis,Salicylic Acid,Skin Conditions
+P0927,Alice Davis,DI009,Corneal Ulcer,Antibiotic Eye Drops,Eye and Vision Disorders
+P0928,Fiona Brown,DI002,Rheumatic Heart Disease,,Cardiovascular Diseases
+P0929,Emma Jones,DI004,Rheumatoid Arthritis,Adalimumab,Autoimmune Diseases
+P0930,Grace Miller,DI010,Influenza (Flu),Oseltamivir (Tamiflu),Infectious Diseases
+P0931,Grace Wilson,DI010,Whooping Cough (Pertussis),Clarithromycin,Infectious Diseases
+P0932,Isabella Williams,DI008,Shingles (Herpes Zoster),Antiviral Medications (Acyclovir,Skin Conditions
+P0933,Charlie Wilson,DI002,Cardiac Arrest,Cardiopulmonary Resuscitation (CPR),Cardiovascular Diseases
+P0934,Alice Jones,DI010,Cholera,Oral rehydration solution (ORS),Infectious Diseases
+P0935,Henry Taylor,DI009,Keratoconus,Corneal Collagen Cross-Linking,Eye and Vision Disorders
+P0936,Fiona Smith,DI001,Anxiety Disorders,Buspirone,Mental Health Disorders
+P0937,Grace Davis,DI004,Polymyalgia Rheumatica,Corticosteroids,Autoimmune Diseases
+P0938,Isabella Brown,DI004,Crohn's Disease,Corticosteroids,Autoimmune Diseases
+P0939,Henry Williams,DI001,Anxiety Disorders,Therapy,Mental Health Disorders
+P0940,Jack Brown,DI007,Type 2 Diabetes,Canagliflozin,Endocrine Disorders
+P0941,Jack Moore,DI002,Wolff-Parkinson-White Syndrome,Catheter Ablation,Cardiovascular Diseases
+P0942,Grace Jones,DI005,Neuropathy,Antidepressants,Neurological Disorders
+P0943,David Smith,DI009,Cataracts,Phacoemulsification,Eye and Vision Disorders
+P0944,Henry Johnson,DI009,Pterygium,,Eye and Vision Disorders
+P0945,Charlie Taylor,DI003,Sleep Apnea,BiPAP,Respiratory Diseases
+P0946,Emma Smith,DI010,Rubella,,Infectious Diseases
+P0947,Charlie Johnson,DI001,Hoarding Disorder,Medication,Mental Health Disorders
+P0948,Emma Davis,DI001,Panic Disorder,SSRIs,Mental Health Disorders
+P0949,Alice Brown,DI007,Hypothyroidism,Armour Thyroid,Endocrine Disorders
+P0950,Fiona Moore,DI003,Hay Fever (Allergic Rhinitis),Nasal Corticosteroids,Respiratory Diseases
+P0951,Bob Davis,DI010,Influenza (Flu),Peramivir,Infectious Diseases
+P0952,David Brown,DI004,Rheumatoid Arthritis,Etanercept,Autoimmune Diseases
+P0953,Isabella Miller,DI009,Glaucoma,Bimatoprost,Eye and Vision Disorders
+P0954,Jack Davis,DI001,Generalized Anxiety Disorder (GAD),SNRIs,Mental Health Disorders
+P0955,Henry Davis,DI002,Pericarditis,,Cardiovascular Diseases
+P0956,Jack Brown,DI001,Major Depressive Disorder (MDD),MAOIs,Mental Health Disorders
+P0957,Jack Williams,DI008,Warts,,Skin Conditions
+P0958,Bob Taylor,DI001,Social Anxiety Disorder,Beta-blockers,Mental Health Disorders
+P0959,Isabella Smith,DI005,Carpal Tunnel Syndrome,Bracing,Neurological Disorders
+P0960,Henry Jones,DI007,Parathyroid Disorders,Parathyroid Hormone,Endocrine Disorders
+P0961,Henry Johnson,DI004,Myasthenia Gravis,Plasmapheresis,Autoimmune Diseases
+P0962,Emma Moore,DI005,Amyotrophic Lateral Sclerosis (ALS),Riluzole,Neurological Disorders
+P0963,Grace Smith,DI003,Whooping Cough (Pertussis),Antibiotics,Respiratory Diseases
+P0964,Grace Williams,DI003,Pneumothorax,,Respiratory Diseases
+P0965,Jack Brown,DI003,Pulmonary Hypertension,Prostacyclin Analogs,Respiratory Diseases
+P0966,Charlie Moore,DI005,Bell's Palsy,Antiviral Medications,Neurological Disorders
+P0967,Isabella Davis,DI008,Psoriasis,Topical Steroids,Skin Conditions
+P0968,Charlie Johnson,DI008,Warts,Freezing (Cryotherapy),Skin Conditions
+P0969,Fiona Brown,DI001,Post-Traumatic Stress Disorder (PTSD),Cognitive Processing Therapy,Mental Health Disorders
+P0970,Alice Taylor,DI001,Seasonal Affective Disorder (SAD),Light Therapy,Mental Health Disorders
+P0971,Charlie Moore,DI008,Cellulitis,Pain Relievers,Skin Conditions
+P0972,Charlie Miller,DI007,Adrenal Insufficiency,Hydrocortisone,Endocrine Disorders
+P0973,Emma Johnson,DI007,Acromegaly,Octreotide,Endocrine Disorders
+P0974,Emma Johnson,DI005,Multiple Sclerosis,Fingolimod,Neurological Disorders
+P0975,Isabella Williams,DI001,Eating Disorders,,Mental Health Disorders
+P0976,David Jones,DI008,Molluscum Contagiosum,Cantharidin),Skin Conditions
+P0977,Charlie Davis,DI002,Kawasaki Disease,Aspirin,Cardiovascular Diseases
+P0978,David Miller,DI007,Diabetic Retinopathy,,Endocrine Disorders
+P0979,Fiona Williams,DI007,Thyroid Nodules,Thyroid Hormone Replacement,Endocrine Disorders
+P0980,Charlie Davis,DI001,Panic Disorder,SSRIs,Mental Health Disorders
+P0981,Fiona Miller,DI009,Pterygium,,Eye and Vision Disorders
+P0982,Henry Taylor,DI002,Valvular Heart Disease,Diuretics,Cardiovascular Diseases
+P0983,Fiona Johnson,DI002,Kawasaki Disease,,Cardiovascular Diseases
+P0984,Isabella Davis,DI002,Valvular Heart Disease,Diuretics,Cardiovascular Diseases
+P0985,Fiona Wilson,DI008,Hives (Urticaria),Antihistamines,Skin Conditions
+P0986,Henry Davis,DI008,Hidradenitis Suppurativa,Tumor Necrosis Factor (TNF) Inhibitors,Skin Conditions
+P0987,Isabella Taylor,DI003,Pulmonary Embolism,Thrombolytics,Respiratory Diseases
+P0988,Fiona Johnson,DI003,Tuberculosis (TB),Ethambutol,Respiratory Diseases
+P0989,Jack Johnson,DI010,Chickenpox,Acyclovir,Infectious Diseases
+P0990,Grace Smith,DI007,Adrenal Insufficiency,,Endocrine Disorders
+P0991,Isabella Wilson,DI006,Gastroenteritis,Oral rehydration solutions,Gastrointestinal Disorders
+P0992,Jack Smith,DI009,Keratoconus,Corneal Collagen Cross-Linking,Eye and Vision Disorders
+P0993,Fiona Jones,DI001,Post-Traumatic Stress Disorder (PTSD),Cognitive Processing Therapy,Mental Health Disorders
+P0994,Bob Brown,DI003,Tuberculosis (TB),Isoniazid,Respiratory Diseases
+P0995,Bob Taylor,DI006,Peptic Ulcer,Antibiotics,Gastrointestinal Disorders
+P0996,Alice Miller,DI001,Depression,SNRIs,Mental Health Disorders
+P0997,Fiona Williams,DI002,Heart Failure,Diuretics,Cardiovascular Diseases
+P0998,Henry Jones,DI009,Conjunctivitis (Pink Eye),Antihistamine Eye Drops,Eye and Vision Disorders
+P0999,David Taylor,DI005,Migraine,Rizatriptan,Neurological Disorders
+P1000,Fiona Brown,DI005,Charcot-Marie-Tooth Disease,Pain Management,Neurological Disorders
